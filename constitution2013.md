@@ -3,8 +3,10 @@
 ## 1. NAME OF THE ASSOCIATION 
 ### 1.1. The official name of the Association shall be: a) Computer And Security Student Association (CASSA) 
 ## 2. DEFINITIONS 
-### 2.1. In these rules, unless the contrary intention appears: a) “Committee” means the Executive Committee of the Association; 
-b) “Committee meeting” means meeting of the committee members, including electronic and virtual meeting; c) “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association; d) “General meeting” means meeting convened of the Association, including electronic and virtual meeting; e) “The Act” means the Associations Incorporation Act 1987; f) “The Association” means the name of the Computer And Security Student Association (CASSA). g) “staff” means technical, support, administrative or academic staff members of the school of Computer and Security Science at Edith Cowan University. h) “school” or “SCSS” means the School of Computer and Security Science at Edith Cowan University. 
+### 2.1. In these rules, unless the contrary intention appears:
+a) “Committee” means the Executive Committee of the Association; 
+b) “Committee meeting” means meeting of the committee members, including electronic and virtual meeting; 
+c) “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association; d) “General meeting” means meeting convened of the Association, including electronic and virtual meeting; e) “The Act” means the Associations Incorporation Act 1987; f) “The Association” means the name of the Computer And Security Student Association (CASSA). g) “staff” means technical, support, administrative or academic staff members of the school of Computer and Security Science at Edith Cowan University. h) “school” or “SCSS” means the School of Computer and Security Science at Edith Cowan University. 
 ## 3. OBJECTS 
 ### 3.1. The Objects of the Association shall be to: 
 a)  Formally represent all Undergraduate and Postgraduate degree students undertaking units from the School of Computer and Security  Science at ECU; and staff; in all the relevant University forums.  b)  Improve the provision of information to: Undergraduate and Postgraduate degree students; and to staff.  c)  Improve communication between students, and between the School and University and the School’s Undergraduate and Postgraduate degree students and staff.  d)  Encourage the spirit of collegiality at ECU and promote the sense of membership of a community of scholars.  e)  Promote intellectual and social interaction at the University.  f)  Campaign for improvement in the standards of services and facilities  for Undergraduate and Postgraduate degree students and staff of the School of Computer & Security Science.  g)  Promote employment and enterprise opportunities for Undergraduate and Postgraduate degree students at ECU and elsewhere.  h)  Connect students to industry professionals, potential employers, researchers and students of other tertiary and post-secondary colleges.  i)  Encourage and promote co-operation between this Association and other ECU Student Associations  j)  Provide a platform for SCSS students and staff to present their views, projects, ideas, criticism, etc.  k)  Organise sporting, cultural and entertainment events and activities for SCSS students and staff.  l)  Seek discounts and financial benefits from the university and outside organizations for its members. 
@@ -46,31 +48,30 @@ b)  the general meeting hearing the appeal of the member shall consist of at le
 c)  the member who gave that notice does not cease to be a member unless and until the decision of the Committee to expel hir is confirmed under this subrule. 
 ### 9.6.  The Committee shall have the power to exclude any member from attending any of the Association’s meetings except AGMs and EGMs for a period of up to 12 months if the member in question has been the subject of a successful vote of no confidence.
 ### 9.7. Any motion of no confidence against any member must stipulate the length of time of proposed suspension of rights to attend ordinary meetings and must be carried by a majority of at least two thirds of those present who are eligible to vote. 
-	## 10.	OFFICERS OF THE ASSOCIATION 
+## 10. OFFICERS OF THE ASSOCIATION 
 	.	10.1.  The officers of the Association shall be: 
 	.	a)  President  
 	.	b)  Vice-President  
 	.	c)  Secretary  
 	.	d)  Treasurer  
 	.	10.2.  Only Ordinary members of the Association who are also students or staff of the School of Computer and Security Science at ECU will be eligible for election as President or Vice President of the Association.  
-##	11.	THE EXECUTIVE COMMITTEE 
-	.	11.1.  The administration of the Association shall be the responsibility of the Committee.  
-	.	11.2.  The Committee shall be comprised of the officers of the Association and not less than 5 other members who shall be: 
-	.	a)  Technical/Web Administrator(s)  
-	.	b)  Social Coordinator(s)  
-	.	c)  Postgraduate Representative(s)  
-	.	d)  3rd Year Representative(s)  
-	.	e)  2nd Year Representative(s)  
-	.	f)  1st Year Representative(s)  
-	.	g)  Staff Representative  
-	.	h)  Presidential Advisor  
-	.	11.3.  The officers and other members of the Committee shall be nominated by and  elected from the members of the Association and shall be elected annually at  the Annual General Meeting and shall take office immediately.  
-	.	11.4.  Officer bearers shall not hold office continually for longer than five years.  
-	.	11.5.  A student in their first year of study shall not be eligible for any of the Officer  positions except the role of Secretary.  
-	.	11.6.  The Committee shall have the power to form sub-committees.  
-	.	11.7.  The Committee shall have the power to fill any casual vacancy of the  Committee as may occur before the next AGM, unless a petition calling for an Extraordinary General Meeting to fill the casual vacancies is submitted in accordance with the requirements for the calling of such a meeting.  
-	.	11.8.  The Presidential Advisor can only be filled by the immediate past President. In such cases where this person cannot fulfill their duties, the immediate past 
-Vice President will be asked to take the place as the Advisor. Should neither of the immediate past President or Vice President be able to undertake the position, it will be left open to other previous committee members. 
+##11. THE EXECUTIVE COMMITTEE 
+### 11.1.  The administration of the Association shall be the responsibility of the Committee.  
+### 11.2.  The Committee shall be comprised of the officers of the Association and not less than 5 other members who shall be: 
+a)  Technical/Web Administrator(s)  
+b)  Social Coordinator(s)  
+c)  Postgraduate Representative(s)  
+d)  3rd Year Representative(s)  
+e)  2nd Year Representative(s)  
+f)  1st Year Representative(s)  
+g)  Staff Representative  
+h)  Presidential Advisor  
+### 11.3.  The officers and other members of the Committee shall be nominated by and  elected from the members of the Association and shall be elected annually at  the Annual General Meeting and shall take office immediately.  
+### 11.4.  Officer bearers shall not hold office continually for longer than five years.  
+### 11.5.  A student in their first year of study shall not be eligible for any of the Officer  positions except the role of Secretary.  
+### 11.6.  The Committee shall have the power to form sub-committees.  
+### 11.7.  The Committee shall have the power to fill any casual vacancy of the  Committee as may occur before the next AGM, unless a petition calling for an Extraordinary General Meeting to fill the casual vacancies is submitted in accordance with the requirements for the calling of such a meeting.  
+### 11.8.  The Presidential Advisor can only be filled by the immediate past President. In such cases where this person cannot fulfill their duties, the immediate past Vice President will be asked to take the place as the Advisor. Should neither of the immediate past President or Vice President be able to undertake the position, it will be left open to other previous committee members. 
 11.9. Previous years Committee members holding positions may stay on as advisors for the following year in order to create a transition period for new members to learn the details of fulfilling their duties. 
 11.10.Expulsion from the Committee will occur if any committee member fails to attend 3 consecutive committee meetings without providing apologies. No warning need be given in this case. 
 11.11. Expulsion from the Committee may also occur as a result of a majority decision by the committee that the member is not fulfilling their duties in an appropriate manner. In this case, the offending member is to be given 1 warning prior to expulsion. 
