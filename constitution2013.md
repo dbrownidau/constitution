@@ -4,18 +4,33 @@
 ### 1.1. The official name of the Association shall be: a) Computer And Security Student Association (CASSA) 
 ## 2. DEFINITIONS 
 ### 2.1. In these rules, unless the contrary intention appears:
-a) “Committee” means the Executive Committee of the Association; 
+a) “Committee” means the Executive Committee of the Association;
+
 b) “Committee meeting” means meeting of the committee members, including electronic and virtual meeting; 
-c) “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association; d) “General meeting” means meeting convened of the Association, including electronic and virtual meeting; e) “The Act” means the Associations Incorporation Act 1987; f) “The Association” means the name of the Computer And Security Student Association (CASSA). g) “staff” means technical, support, administrative or academic staff members of the school of Computer and Security Science at Edith Cowan University. h) “school” or “SCSS” means the School of Computer and Security Science at Edith Cowan University. 
+
+c) “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association; 
+
+d) “General meeting” means meeting convened of the Association, including electronic and virtual meeting; 
+
+e) “The Act” means the Associations Incorporation Act 1987; 
+
+f) “The Association” means the name of the Computer And Security Student Association (CASSA). 
+
+g) “staff” means technical, support, administrative or academic staff members of the school of Computer and Security Science at Edith Cowan University. 
+
+h) “school” or “SCSS” means the School of Computer and Security Science at Edith Cowan University. 
+
 ## 3. OBJECTS 
 ### 3.1. The Objects of the Association shall be to: 
 a)  Formally represent all Undergraduate and Postgraduate degree students undertaking units from the School of Computer and Security  Science at ECU; and staff; in all the relevant University forums.  b)  Improve the provision of information to: Undergraduate and Postgraduate degree students; and to staff.  c)  Improve communication between students, and between the School and University and the School’s Undergraduate and Postgraduate degree students and staff.  d)  Encourage the spirit of collegiality at ECU and promote the sense of membership of a community of scholars.  e)  Promote intellectual and social interaction at the University.  f)  Campaign for improvement in the standards of services and facilities  for Undergraduate and Postgraduate degree students and staff of the School of Computer & Security Science.  g)  Promote employment and enterprise opportunities for Undergraduate and Postgraduate degree students at ECU and elsewhere.  h)  Connect students to industry professionals, potential employers, researchers and students of other tertiary and post-secondary colleges.  i)  Encourage and promote co-operation between this Association and other ECU Student Associations  j)  Provide a platform for SCSS students and staff to present their views, projects, ideas, criticism, etc.  k)  Organise sporting, cultural and entertainment events and activities for SCSS students and staff.  l)  Seek discounts and financial benefits from the university and outside organizations for its members. 
 ## 4. POWERS 
 ### 4.1. For the purposes of achieving or furthering these objectives, the Association shall have the power to: 
-a) Acquire, hold, deal with and dispose of any real property, provided that this is in accordance with ECU policy. b) Open and operate bank accounts;
+a) Acquire, hold, deal with and dispose of any real property, provided that this is in accordance with ECU policy. 
+b) Open and operate bank accounts;
 c) Borrow, raise or secure payment of money. 
-d) Secure the payment or performance of any debt, liability, or guarantee incurring or entering into by the Association, provided that this does not contravene University Policy. e) Appoint agents to transact business of the Association on its behalf. 
-f)Engage and dismiss employees (guest speakers, specialists, etc). 
+d) Secure the payment or performance of any debt, liability, or guarantee incurring or entering into by the Association, provided that this does not contravene University Policy. 
+e) Appoint agents to transact business of the Association on its behalf. 
+f) Engage and dismiss employees (guest speakers, specialists, etc). 
 g) Do all such things as are incidental or conductive to the objects of the Association. h) Enter into any other contract it considers necessary or desirable. 
 ## 5. INCOME & PROPERTY 
 ### 5.1. The income and property shall be applied solely towards the promotion of the Association and within its stated objectives, and no portion of income or property shall be paid, transferred or distributed directly or indirectly to the members of the Association provided that nothing shall prevent the payment in good faith of remuneration to any officer or employee of the Association or to any person other than a member, in return for services actually rendered to, or by way or reimbursement for authorised expense incurred on behalf of the Association. 
