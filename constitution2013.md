@@ -5,7 +5,7 @@
 #### 1.1.1 Computer And Security Student Association (CASSA) 
 ## 2. DEFINITIONS 
 ### 2.1. In these rules, unless the contrary intention appears:
-2.1.1. “Committee” means the Executive Committee of the Association;
+	2.1.1. “Committee” means the Executive Committee of the Association;
 
 2.1.2. “Committee meeting” means meeting of the committee members, including electronic and virtual meeting; 
 
@@ -23,7 +23,28 @@
 
 ## 3. OBJECTS 
 ### 3.1. The Objects of the Association shall be to: 
-a)  Formally represent all Undergraduate and Postgraduate degree students undertaking units from the School of Computer and Security  Science at ECU; and staff; in all the relevant University forums.  b)  Improve the provision of information to: Undergraduate and Postgraduate degree students; and to staff.  c)  Improve communication between students, and between the School and University and the School’s Undergraduate and Postgraduate degree students and staff.  d)  Encourage the spirit of collegiality at ECU and promote the sense of membership of a community of scholars.  e)  Promote intellectual and social interaction at the University.  f)  Campaign for improvement in the standards of services and facilities  for Undergraduate and Postgraduate degree students and staff of the School of Computer & Security Science.  g)  Promote employment and enterprise opportunities for Undergraduate and Postgraduate degree students at ECU and elsewhere.  h)  Connect students to industry professionals, potential employers, researchers and students of other tertiary and post-secondary colleges.  i)  Encourage and promote co-operation between this Association and other ECU Student Associations  j)  Provide a platform for SCSS students and staff to present their views, projects, ideas, criticism, etc.  k)  Organise sporting, cultural and entertainment events and activities for SCSS students and staff.  l)  Seek discounts and financial benefits from the university and outside organizations for its members. 
+a)  Formally represent all Undergraduate and Postgraduate degree students undertaking units from the School of Computer and Security  Science at ECU; and staff; in all the relevant University forums.  
+
+b)  Improve the provision of information to: Undergraduate and Postgraduate degree students; and to staff.  
+
+c)  Improve communication between students, and between the School and University and the School’s Undergraduate and Postgraduate degree students and staff.  
+
+d)  Encourage the spirit of collegiality at ECU and promote the sense of membership of a community of scholars.  
+
+e)  Promote intellectual and social interaction at the University.  
+
+f)  Campaign for improvement in the standards of services and facilities  for Undergraduate and Postgraduate degree students and staff of the School of Computer & Security Science.  
+
+g)  Promote employment and enterprise opportunities for Undergraduate and Postgraduate degree students at ECU and elsewhere.  
+
+h)  Connect students to industry professionals, potential employers, researchers and students of other tertiary and post-secondary colleges.  
+
+i)  Encourage and promote co-operation between this Association and other ECU Student Associations  
+
+j)  Provide a platform for SCSS students and staff to present their views, projects, ideas, criticism, etc.  
+
+k)  Organise sporting, cultural and entertainment events and activities for SCSS students and staff.  
+l)  Seek discounts and financial benefits from the university and outside organizations for its members. 
 ## 4. POWERS 
 ### 4.1. For the purposes of achieving or furthering these objectives, the Association shall have the power to: 
 a) Acquire, hold, deal with and dispose of any real property, provided that this is in accordance with ECU policy. 
@@ -41,11 +62,19 @@ f) Engage and dismiss employees (guest speakers, specialists, etc).
 g) Do all such things as are incidental or conductive to the objects of the Association. h) Enter into any other contract it considers necessary or desirable. 
 
 ## 5. INCOME & PROPERTY 
-### 5.1. The income and property shall be applied solely towards the promotion of the Association and within its stated objectives, and no portion of income or property shall be paid, transferred or distributed directly or indirectly to the members of the Association provided that nothing shall prevent the payment in good faith of remuneration to any officer or employee of the Association or to any person other than a member, in return for services actually rendered to, or by way or reimbursement for authorised expense incurred on behalf of the Association. 
+### 5.1. 
+The income and property shall be applied solely towards the promotion of the Association and within its stated objectives, and no portion of income or property shall be paid, transferred or distributed directly or indirectly to the members of the Association provided that nothing shall prevent the payment in good faith of remuneration to any officer or employee of the Association or to any person other than a member, in return for services actually rendered to, or by way or reimbursement for authorised expense incurred on behalf of the Association. 
 ## 6. MEMBERSHIP 
 ### 6.1.  Membership or the Association shall consist of three classes: 
+a)  Ordinary Membership - students, staff or employees of Edith Cowan University who opt to become members of the association.  
 
-a)  Ordinary Membership - students, staff or employees of Edith Cowan University who opt to become members of the association.  b)  Associate Membership - as granted by an officer of the association.  c)  Lifetime Membership - committee members from the previous year only or SCSS staff members.  6.2.  Previous committee members may sign up for lifetime memberships at any time during the year following their committee term, regardless of whether they are still a student or not.  6.3.  Membership of the Association shall cease if the member: 
+b)  Associate Membership - as granted by an officer of the association.  
+
+c)  Lifetime Membership - committee members from the previous year only or SCSS staff members.  
+
+### 6.2.
+Previous committee members may sign up for lifetime memberships at any time during the year following their committee term, regardless of whether they are still a student or not.  
+### 6.3. Membership of the Association shall cease if the member: 
 
 a)  resigns in writing or via electronic media addressed to the secretary of the Association, 
 
@@ -55,17 +84,24 @@ c)  becomes non-financial, and/or
 
 d)  deceases. 
 
-### 6.4.  Associate and Lifetime members have all rights that are granted to Ordinary  members.  
+### 6.4.
+Associate and Lifetime members have all rights that are granted to Ordinary  members.  
+
 ## 7. MEMBERSHIP FEES AND FUNDS 
-### 7.1.  An annual membership fee of the Association may be set by the Committee in accordance with a forecasted yearly budget to be determined by the Committee. 
-### 7.2.  In the absence of a membership fee, memberships must be renewed on a semesterly basis. 
-### 7.3.  All membership fees will be due and payable in advance by the due date. Any member who has their fees more than 6 weeks in arrears shall be deemed to be non-financial. 
-### 7.4.  The Association may accept funding from any source that is consistent with University policy. 
-### 7.5.  Proper membership records detailing class of members, amount of fees, date that fees were paid, receipts of monies received, and any other relevant details, must be maintained at all times. 
+### 7.1.
+An annual membership fee of the Association may be set by the Committee in accordance with a forecasted yearly budget to be determined by the Committee. 
+### 7.2.
+In the absence of a membership fee, memberships must be renewed on a semesterly basis. 
+### 7.3.
+All membership fees will be due and payable in advance by the due date. Any member who has their fees more than 6 weeks in arrears shall be deemed to be non-financial. 
+### 7.4.
+The Association may accept funding from any source that is consistent with University policy. 
+### 7.5.
+Proper membership records detailing class of members, amount of fees, date that fees were paid, receipts of monies received, and any other relevant details, must be maintained at all times. 
 ## 8. RESIGNATION OF MEMBERS OF ASSOCIATION 
 ### 8.1. A member who delivers notice in writing or electronically of hir resignation from the Association to the Secretary or another Committee member ceases on that delivery to be a member. 
 ## 9. EXPULSION AND EXCLUSION OF MEMBERS OF ASSOCIATION 
-### 9.1.  If the Committee considers that a member should be expelled from membership of the Association because hir conduct is detrimental to the interests of the Association, the President or Secretary shall communicate, orally, electronically or in writing, to the member: 
+### 9.1. If the Committee considers that a member should be expelled from membership of the Association because hir conduct is detrimental to the interests of the Association, the President or Secretary shall communicate, orally, electronically or in writing, to the member: 
 a)  notice of the proposed expulsion and of the time, date and place of the Committee meeting at which the question of that expulsion will be decided; and 
 
 b)  particulars of that conduct, not less than 7 days before the date of the Committee meeting referred to in paragraph (a). 
