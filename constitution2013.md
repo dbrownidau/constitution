@@ -2,24 +2,24 @@
 # CONSTITUTION OF THE COMPUTER AND SECURITY STUDENT ASSOCIATION (CASSA) 
 ## 1. NAME OF THE ASSOCIATION 
 ### 1.1. The official name of the Association shall be: 
-#### 1.1.1 Computer And Security Student Association (CASSA) 
+a) Computer And Security Student Association (CASSA) 
 ## 2. DEFINITIONS 
 ### 2.1. In these rules, unless the contrary intention appears:
-	2.1.1. “Committee” means the Executive Committee of the Association;
+a) “Committee” means the Executive Committee of the Association;
 
-2.1.2. “Committee meeting” means meeting of the committee members, including electronic and virtual meeting; 
+b) “Committee meeting” means meeting of the committee members, including electronic and virtual meeting; 
 
-2.1.3. “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association; 
+c) “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association; 
 
-2.1.4. “General meeting” means meeting convened of the Association, including electronic and virtual meeting; 
+d) “General meeting” means meeting convened of the Association, including electronic and virtual meeting; 
 
-2.1.5. “The Act” means the Associations Incorporation Act 1987; 
+e) “The Act” means the Associations Incorporation Act 1987; 
 
-2.1.6. “The Association” means the name of the Computer And Security Student Association (CASSA). 
+f) “The Association” means the name of the Computer And Security Student Association (CASSA). 
 
-2.1.7. “staff” means technical, support, administrative or academic staff members of the school of Computer and Security Science at Edith Cowan University. 
+g) “staff” means technical, support, administrative or academic staff members of the school of Computer and Security Science at Edith Cowan University. 
 
-2.1.8.  “school” or “SCSS” means the School of Computer and Security Science at Edith Cowan University. 
+h)  “school” or “SCSS” means the School of Computer and Security Science at Edith Cowan University. 
 
 ## 3. OBJECTS 
 ### 3.1. The Objects of the Association shall be to: 
