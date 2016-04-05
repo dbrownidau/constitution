@@ -2,7 +2,9 @@
 
 ## 1. Name of the Association
 The official name of the association shall be:
+
 Computer And Security Student Association
+
 Abreviated to CASSA
 
 ## 2. Definitions
