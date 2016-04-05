@@ -5,14 +5,14 @@
 #### 1.1.1 Computer And Security Student Association (CASSA) 
 ## 2. DEFINITIONS 
 ### 2.1. In these rules, unless the contrary intention appears:
-#### 2.1.1. “Committee” means the Executive Committee of the Association;
-#### 2.1.2. “Committee meeting” means meeting of the committee members, including electronic and virtual meeting; 
-#### 2.1.3. “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association; 
-#### 2.1.4. “General meeting” means meeting convened of the Association, including electronic and virtual meeting; 
-#### 2.1.5. “The Act” means the Associations Incorporation Act 1987; 
-#### 2.1.6. “The Association” means the name of the Computer And Security Student Association (CASSA). 
-#### 2.1.7. “staff” means technical, support, administrative or academic staff members of the school of Computer and Security Science at Edith Cowan University. 
-#### 2.1.8.  “school” or “SCSS” means the School of Computer and Security Science at Edith Cowan University. 
+_2.1.1. “Committee” means the Executive Committee of the Association;
+_2.1.2. “Committee meeting” means meeting of the committee members, including electronic and virtual meeting; 
+_2.1.3. “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association; 
+_2.1.4. “General meeting” means meeting convened of the Association, including electronic and virtual meeting; 
+_2.1.5. “The Act” means the Associations Incorporation Act 1987; 
+_2.1.6. “The Association” means the name of the Computer And Security Student Association (CASSA). 
+_2.1.7. “staff” means technical, support, administrative or academic staff members of the school of Computer and Security Science at Edith Cowan University. 
+_2.1.8.  “school” or “SCSS” means the School of Computer and Security Science at Edith Cowan University. 
 ## 3. OBJECTS 
 ### 3.1. The Objects of the Association shall be to: 
 a)  Formally represent all Undergraduate and Postgraduate degree students undertaking units from the School of Computer and Security  Science at ECU; and staff; in all the relevant University forums.  b)  Improve the provision of information to: Undergraduate and Postgraduate degree students; and to staff.  c)  Improve communication between students, and between the School and University and the School’s Undergraduate and Postgraduate degree students and staff.  d)  Encourage the spirit of collegiality at ECU and promote the sense of membership of a community of scholars.  e)  Promote intellectual and social interaction at the University.  f)  Campaign for improvement in the standards of services and facilities  for Undergraduate and Postgraduate degree students and staff of the School of Computer & Security Science.  g)  Promote employment and enterprise opportunities for Undergraduate and Postgraduate degree students at ECU and elsewhere.  h)  Connect students to industry professionals, potential employers, researchers and students of other tertiary and post-secondary colleges.  i)  Encourage and promote co-operation between this Association and other ECU Student Associations  j)  Provide a platform for SCSS students and staff to present their views, projects, ideas, criticism, etc.  k)  Organise sporting, cultural and entertainment events and activities for SCSS students and staff.  l)  Seek discounts and financial benefits from the university and outside organizations for its members. 
