@@ -159,3 +159,129 @@ Expulsion from the Executive Committee may occur if:
 
 ## 12. Annual General Meeting
 
+# Constitution of the Computer and Security Student Association (CASSA)
+
+## 1. Name of the Association
+The official name of the association shall be:
+
+Computer And Security Student Association
+
+Abreviated to CASSA
+
+## 2. Definitions
+In these rules, unless the contrary intention appears:
+12.6. The Treasurer's Report; including a Statement of Accounts for the preceding financial year
+
+12.7. The Tech Committee's Report
+
+12.8. The Social Committee's Report
+
+12.9. The Academic Committee's Report
+
+12.10. The Support Committee's Report
+
+12.11. The election for the new executive committee
+
+12.12. General business
+
+## 13. Extraordinary General Meeting
+
+13.1. An extraordinary general meeting can be called by majority vote of at least half of the commitee
+
+13.2. The quroum shall be the same as in Clause 11.2.
+
+13.3. The association shall give notice of the meeting as in Clause 11.4.
+
+## 14. Voting
+
+14.1. At any meeting of members of the Association, be it a General, Extraordinary, or Committee meeting, a resolution shall be decided by a simple majority of those voting
+
+14.2. Voting shall be conducted by a show of hands of those present
+
+14.3. Only ordinary members and committee members of the Association shall be eligible to vote
+
+14.4. Under no circumstances shall right of voting by proxy be permitted
+
+## 15. Minutes of Meetings
+
+15.1. The Secretary, or in hir absence another member, shall keep Minutes of all General Meetings, Extraordinary Meetings and Annual General Meetings
+
+15.2. Minutes of the proceedings shall be available for all members of the association
+
+15.3. Minutes of all meetings shall be open to inspection upon the giving of reasonable notice by any member at a time and place convenient to the Secretary and to the member, or via the internet
+
+## 16. Elections
+
+16.1. Executive Committee members must be elected yearly
+
+16.2. Ordinary members of the association must be given an opportunity of at least 14 days to nominate themselves or another ordinary member for an executive committee role
+
+16.3. Ordinary members of the association must be given an opportunity of at least 14 days to vote for a candidate using electronic media
+
+16.4. Existing votes may be changed at any time before the votes are counted at the annual general meeting
+
+## 17. President
+
+In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the President to :
+
+17.1. co-ordinate and supervise the work of the office-bearers.
+
+17.2. generally carry out the policy of the Association.
+
+17.3. take the chair at any meeting of the Association or of the Committee and decide meeting procedure.
+
+17.4. the President shall promote the aims of the Association and act as official representative and spokesperson of the Association.
+
+17.5. the President shall have an additional casting vote when chairing any meeting of the Association where a vote on any matter is drawn
+
+## 18. Vice President
+In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the Vice-President to:
+
+18.1. assist the President wherever possible, or where requested, on behalf of the club
+
+18.2. to assume the chair at any meeting of the Association or of the Committee at which the President is absent.
+
+18.3. to coordinate the activities of all sub-committees, unless otherwise specified by the committee.
+
+## 19. Secretary
+In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the Secretary to:
+
+19.1. record all proceedings of the Association and the Committee in an Association minute book, file or electronic archive, which he/she shall cause to be provided for that purpose
+
+19.2. table and maintain records of any correspondence received and sent by the Association
+
+19.3. have custody of all books, documents, records and registers of the Association
+
+19.4.  perform such other duties as are imposed by these rules on the Secretary
+
+## 20. Treasurer
+
+In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the Treasurer to:
+
+20.1. conduct and be responsible for all the Association’s financial transactions.
+
+20.2. provide for the signatories of the account to be any two office bearers
+
+20.3. provide for the account to be open to inspection of any member upon giving reasonable notice and purpose to the Treasurer at a time and place convenient to the Treasurer and the member.
+
+20.4. keep proper books of account dealing with the finances of the Association and to furnish the Committee with such accounts and information relating to the finances of the Association as it may from time to time require.
+
+20.5. arrange and be responsible for the handling of the petty cash and to render and account to each Committee meeting for all petty cash.
+
+20.6. submit at the Annual General Meeting a balance sheet containing a summary of the assets and liabilities of the Association from the preceding financial year, and a budget for the coming year.
+
+20.7. shall receive all monies due and payable to the organisation and lodge them without delay in the Association’s account
+
+20.8. shall have custody of all securities, books and documents of a financial nature and accounting records of the Association.
+
+20.9. shall perform such other duties as are imposed by these rules on the Treasurer.
+
+## 21. Social Committee
+
+## 22. Adademic Committee
+
+## 23. Tech Committee
+
+## 24. Support Committee
+
+
