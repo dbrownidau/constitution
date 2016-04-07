@@ -158,18 +158,16 @@ Expulsion from the Executive Committee may occur if:
 11.5. General Committee Meetings are open to all members unless rejected by the committee
 
 ## 12. Annual General Meeting
+12.1. The Annual General Meeting shall be held either at the end or the start of the academic year
 
-# Constitution of the Computer and Security Student Association (CASSA)
+12.2. The quorum shall be equal to at least two thirds of the amount of committee members
 
-## 1. Name of the Association
-The official name of the association shall be:
+12.3. At least 1 months notice shall be given of the Annual General Meeting 
 
-Computer And Security Student Association
+12.4. Confirmation of minutes 
 
-Abreviated to CASSA
+12.5. The President's Report
 
-## 2. Definitions
-In these rules, unless the contrary intention appears:
 12.6. The Treasurer's Report; including a Statement of Accounts for the preceding financial year
 
 12.7. The Tech Committee's Report
