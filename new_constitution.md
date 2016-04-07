@@ -3,9 +3,9 @@
 ## 1. Name of the Association
 The official name of the association shall be:
 
-Computer And Security Student Association
+1.1. 'Computer And Security Student Association'
 
-Abreviated to CASSA
+1.2. 'CASSA' as an abreviation
 
 ## 2. Definitions
 In these rules, unless the contrary intention appears:
@@ -218,6 +218,8 @@ Expulsion from the Executive Committee may occur if:
 
 16.4. Existing votes may be changed at any time before the votes are counted at the annual general meeting
 
+16.5. Election of the Officers of the Association and members of the Committee occurs at the AGM and takes effect at the conclusion of the meeting
+
 ## 17. President
 
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the President to :
@@ -274,12 +276,64 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 20.9. shall perform such other duties as are imposed by these rules on the Treasurer.
 
-## 21. Social Committee
+## 21. Social Committee (incomplete)
 
-## 22. Adademic Committee
+21.1. It shall be the responsibility of the chair of the social committee to assign tasks and regulate the social committee
 
-## 23. Tech Committee
+## 22. Adademic Committee (incomplete)
 
-## 24. Support Committee
+22.1. It shall be the responsibility of the chair of the academic committee to assign tasks and regulate the academic committee
 
+## 23. Tech Committee (inconmplete)
 
+23.1. It shall be the responsibility of the chair of the tech committee to assign tasks and regulate the tech committee
+
+## 24. Support Committee (incomplete)
+
+21.1. It shall be the responsibility of the chair of the support committee to assign tasks and regulate the support committee
+
+## 25. Vote of no confidence
+
+25.1. Any committee member has the power to call a vote of no confidence
+
+25.2. A vote of no confidence must be called at least 7 days before the vote takes place
+
+25.3. All committee members must be made to vote; They may be able to vote for, against or abstain from voting
+
+25.4. A majority of the committee must vote for the removal of the executive committee member for a succesful vote of no confidence
+
+25.5. A successful vote of no confidence will see that the executive committee member in question is removed from their executive committee position and placed into an ordinary committee position unless otherwised voted on by the committee
+
+## 26. Dissolution
+
+26.1. The Association may at any time, with the consent of a majority of not less than 75% of the members voting at a General Meeting called for the purpose, be dissolved.
+
+26.2. If upon dissolution or winding up of the Association there remains after the satisfaction of all its debts and liabilities, any balance of funds whatsoever, the same shall not be distributed among the members or the Association but shall be transferred to the School of Computer and Security Science to be used to benefit students.
+
+## 27. Inspection of Records
+
+27.1. A freely accessible copy of the Constitution will be permanently published
+
+27.2. A member or staff may at any reasonable time inspect without charge the books, documents, records and securities of the Association
+
+## 28. Alterations of Constitution
+
+28.1. No alterations, addition or amendment of this Constitution or any Regulations made hereunder shall be made unless and until carried by a resolution at any General Meeting called specifically for the purpose by the majority of at least two thirds of the members voting.
+
+28.2. Notice of any proposed alteration, addition or amendment must be included in the notice of an AGM or EGM which must allow for 14 days’ notice to members.
+
+28.3. These rules bind every member and the Association to the same extent as if every member and the Association had signed and sealed these rules and agreed to be bound by all their provisions.
+
+28.4. Copies of amendments to the Constitution shall be forwarded to the Staff Representative or a nominee of Edith Cowan University within 10 days of being approved.
+
+28.5. Under exceptional circumstances, the Committee may decide to make changes to the constitution and allow acceptance via voting online. All CASSA members will be emailed with the proposed change, to which a tally of all positive and negative responses will determine the modification to the constitution.
+
+28.6. The constitution shall be reviewed on a biennial basis at least.
+
+## 29. Regulations
+
+29.1. The Committee shall have the power to make Regulations, or direct that regulations be made, for the proper conduct of the responsibilities specified in any of the clauses of the Constitution.
+
+## 30. Validation
+
+30.1. All acts done in good faith by the Committee shall, notwithstanding the subsequent discovery of some defect in the election of any member, be as valid as if such member had been duly elected
