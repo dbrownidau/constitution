@@ -1,9 +1,9 @@
-# Constitution of the Computer and Security Student Association (CASSA)
+# Constitution of the Computing and Security Student Association (CASSA)
 
 ## 1. Name of the Association
 The official name of the association shall be:
 
-1.1. 'Computer And Security Student Association'
+1.1. 'Computing and Security Student Association'
 
 1.2. 'CASSA' as an abreviation
 
@@ -276,21 +276,45 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 20.9. shall perform such other duties as are imposed by these rules on the Treasurer.
 
-## 21. Social Committee (incomplete)
+## 21. Sub Committees
 
-21.1. It shall be the responsibility of the chair of the social committee to assign tasks and regulate the social committee
+21.1. There shall be at least 3 sub-committees which shall be of the following:
 
-## 22. Adademic Committee (incomplete)
+Social Committee
 
-22.1. It shall be the responsibility of the chair of the academic committee to assign tasks and regulate the academic committee
+Academic Committee
 
-## 23. Tech Committee (inconmplete)
+Technical Committee
 
-23.1. It shall be the responsibility of the chair of the tech committee to assign tasks and regulate the tech committee
+Representative Committee
 
-## 24. Support Committee (incomplete)
+21.2. Each sub-committee shall have a chair-person
 
-21.1. It shall be the responsibility of the chair of the support committee to assign tasks and regulate the support committee
+21.4. The management of a sub-committee shall be the duty of the corresponding chair-person
+
+21.5. The goals and policy of the sub-committee shall be set by the executive committee
+
+21.6. All members under a sub-committee shall be considered a committee member
+
+21.7. The executive committee shall have the power to add and remove committee members
+
+21.8. A committee member shall be a member of no more than two sub-committees
+
+## 22. Sub-Committee Chair
+
+22.1. Each chair-person shall be an executive committee member
+
+22.2. The chair-person of a sub-committee shall be decided by the corresponding committee members by majority vote, recorded by the secretary
+
+22.3. The chair-person of a sub-committee shall have an additional casting in the executive committee when voting on a decision to add or remove a commitee member from their corresponding sub-committee
+
+In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the chair-person to:
+
+22.4. co-ordinate and supervise the work of the corresponding committee members
+
+22.5. generally carry out the policy of the corresponding sub-committee
+
+22.6. take the chair at any meeting of the sub-committee and decide meeting procedure
 
 ## 25. Vote of no confidence
 
@@ -302,7 +326,9 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 25.4. A majority of the committee must vote for the removal of the executive committee member for a succesful vote of no confidence
 
-25.5. A successful vote of no confidence will see that the executive committee member in question is removed from their executive committee position and placed into an ordinary committee position unless otherwised voted on by the committee
+25.5. A successful vote of no confidence will see that the executive committee member in question is removed from their executive committee position
+
+25.6. A vote of no confidence may be called anonymously via proxy by the secretary of the association
 
 ## 26. Dissolution
 
