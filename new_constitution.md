@@ -176,7 +176,7 @@ Expulsion from the Executive Committee may occur if:
 
 12.9. The Academic Committee's Report
 
-12.10. The Support Committee's Report
+12.10. The Representative Committee's Report
 
 12.11. The election for the new executive committee
 
@@ -210,7 +210,7 @@ Expulsion from the Executive Committee may occur if:
 
 ## 16. Elections
 
-16.1. Executive Committee members must be elected yearly
+16.1. Officers of the Association shall be elected yearly
 
 16.2. Ordinary members of the association must be given an opportunity of at least 14 days to nominate themselves or another ordinary member for an executive committee role
 
@@ -219,6 +219,8 @@ Expulsion from the Executive Committee may occur if:
 16.4. Existing votes may be changed at any time before the votes are counted at the annual general meeting
 
 16.5. Election of the Officers of the Association and members of the Committee occurs at the AGM and takes effect at the conclusion of the meeting
+
+16.6. Should there be a vacancy, a new Officer of the Association 
 
 ## 17. President
 
@@ -276,9 +278,9 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 20.9. shall perform such other duties as are imposed by these rules on the Treasurer.
 
-## 21. Sub Committees
+## 21. Subcommittees
 
-21.1. There shall be at least 3 sub-committees which shall be of the following:
+21.1. There shall be at least 3 subcommittees which shall be of the following:
 
 Social Committee
 
@@ -288,33 +290,37 @@ Technical Committee
 
 Representative Committee
 
-21.2. Each sub-committee shall have a chair-person
+21.2. Each subcommittee shall have a chairperson
 
-21.4. The management of a sub-committee shall be the duty of the corresponding chair-person
+21.4. The management of a subcommittee shall be the duty of the corresponding chair-person
 
-21.5. The goals and policy of the sub-committee shall be set by the executive committee
+21.5. The goals and policy of the subcommittee shall be set by the executive committee
 
-21.6. All members under a sub-committee shall be considered a committee member
+21.6. All members under a subcommittee shall be considered a committee member
 
 21.7. The executive committee shall have the power to add and remove committee members
 
 21.8. A committee member shall be a member of no more than two sub-committees
 
-## 22. Sub-Committee Chair
+21.9. A subcommittee may act under any title approved by the executive committee
 
-22.1. Each chair-person shall be an executive committee member
+21.10. Committee members may act under a title approved by both theirselves and the executive committee
 
-22.2. The chair-person of a sub-committee shall be decided by the corresponding committee members by majority vote, recorded by the secretary
+## 22. Subcommittee Chair
 
-22.3. The chair-person of a sub-committee shall have an additional casting in the executive committee when voting on a decision to add or remove a commitee member from their corresponding sub-committee
+22.1. Each chairperson shall be an executive committee member
 
-In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the chair-person to:
+22.2. The chairperson of a subcommittee shall be decided by the corresponding committee members by majority vote, recorded by the secretary
+
+22.3. The chairperson of a subcommittee shall have an additional casting in the executive committee when voting on a decision to add or remove a commitee member from their corresponding sub-committee
+
+In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the chairperson to:
 
 22.4. co-ordinate and supervise the work of the corresponding committee members
 
-22.5. generally carry out the policy of the corresponding sub-committee
+22.5. generally carry out the policy of the corresponding subcommittee
 
-22.6. take the chair at any meeting of the sub-committee and decide meeting procedure
+22.6. take the chair at any meeting of the subcommittee and decide meeting procedure
 
 ## 25. Vote of no confidence
 
