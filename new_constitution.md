@@ -12,24 +12,22 @@ In these rules, unless the contrary intention appears:
 
 2.1. “Committee” means the Committee of the Association; 
 
-2.2. “General meeting” means meeting of the committee members, including electronic and virtual meeting;
+2.2. “Committee  meeting” means meeting of the committee members, including electronic and virtual meeting;
 
 2.3. “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association;
 
 2.4. “General meeting” means meeting convened of the Association, including electronic and virtual meeting;
 
-2.5. “The Act” means the Associations Incorporation Act 1987;
+2.5. “The Association” means the name of the Computer And Security Student Association (CASSA).
 
-2.6. “The Association” means the name of the Computer And Security Student Association (CASSA).
+2.6. “Staff” means technical, support, administrative or academic staff members of the School of Science at Edith Cowan University.
 
-2.7. “Staff” means technical, support, administrative or academic staff members of the School of Science at Edith Cowan University.
+2.7. “School” or “SSci” means the School of Science at Edith Cowan University.
 
-2.8. “School” or “SSci” means the School of Science at Edith Cowan University.
+## 3. Objectives
+The Objectives of the Association shall be to:
 
-## 3. Objects
-The Objects of the Association shall be to:
-
-3.1. Formally represent all Undergraduate and Postgraduate degree students undertaking units from the School of Computer and Security Science at ECU; and staff; in all the relevant University forums.
+3.1. Formally represent all Undergraduate and Postgraduate degree students undertaking units from the School of Science at ECU; and staff; in all the relevant University forums.
 
 3.2. Improve the provision of information to: Undergraduate and Postgraduate degree students; and to staff.
 
@@ -39,7 +37,7 @@ The Objects of the Association shall be to:
 
 3.5. Promote intellectual and social interaction at the University.
 
-3.6. Campaign for improvement in the standards of services and facilities for Undergraduate and Postgraduate degree students and staff of the School of Computer & Security Science.
+3.6. Campaign for improvement in the standards of services and facilities for Undergraduate and Postgraduate degree students and staff of the School of Science.
 
 3.7. Promote employment and enterprise opportunities for Undergraduate and Postgraduate degree students at ECU and elsewhere.
 
@@ -47,9 +45,9 @@ The Objects of the Association shall be to:
 
 3.9. Encourage and promote co-operation between this Association and other ECU Student Associations
 
-3.10. Provide a platform for SCSS students and staff to present their views, projects, ideas, criticism, etc.
+3.10. Provide a platform for SSci students and staff to present their views, projects, ideas, criticism, etc.
 
-3.11. Organise sporting, cultural and entertainment events and activities for SCSS students and staff.
+3.11. Organise sporting, cultural and entertainment events and activities for SSci students and staff.
 
 3.12. Seek discounts and financial benefits from the university and outside organizations for its members.
 
@@ -66,7 +64,7 @@ For the purposes of achieving or furthering these objectives, the Association sh
 
 4.5. Appoint agents to transact business of the Association on its behalf. Engage and dismiss employees (guest speakers, specialists, etc).
 
-4.6. Do all such things as are incidental or conductive to the objects of the Association.
+4.6. Do all such things as are incidental or conductive to the objectives of the Association.
 
 4.7. Enter into any other contract it considers necessary or desirable
 
@@ -113,7 +111,7 @@ The officers of the association shall be:
 ## 9. Executive Committee
 9.1. The administration of the Association shall be the responsibility of the Executive Committee
 
-The Executive Committee shall be comprised of those who shall be:
+The Executive Committee shall be comprised of ordinary members who shall be:
 
 9.2. President
 
@@ -123,13 +121,7 @@ The Executive Committee shall be comprised of those who shall be:
 
 9.5. Treasurer
 
-9.6. Chair of Social Committee
-
-9.7. Chair of Academic Committee
-
-9.8. Chair of Technical Committee
-
-9.9. Chair of Support Committee
+9.6. Chairperson of a subcommittee
 
 Exectuive Committee members have the power to:
 
@@ -220,7 +212,7 @@ Expulsion from the Executive Committee may occur if:
 
 16.5. Election of the Officers of the Association and members of the Committee occurs at the AGM and takes effect at the conclusion of the meeting
 
-16.6. Should there be a vacancy, a new Officer of the Association 
+16.6. Should there be a vacancy, a new Officer of the Association may be voted in by any individual nominated by an existing executive committee member or a staff member of ECU
 
 ## 17. President
 
@@ -306,13 +298,15 @@ Representative Committee
 
 21.10. Committee members may act under a title approved by both theirselves and the executive committee
 
+21.11. The executive committee shall have the power to establish and remove subcommittees
+
 ## 22. Subcommittee Chair
 
 22.1. Each chairperson shall be an executive committee member
 
 22.2. The chairperson of a subcommittee shall be decided by the corresponding committee members by majority vote, recorded by the secretary
 
-22.3. The chairperson of a subcommittee shall have an additional casting in the executive committee when voting on a decision to add or remove a commitee member from their corresponding sub-committee
+22.3. The chairperson of a subcommittee shall have an additional casting vote in their corresponding subcommittee where a vote on any matter is drawn
 
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the chairperson to:
 
@@ -321,6 +315,20 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 22.5. generally carry out the policy of the corresponding subcommittee
 
 22.6. take the chair at any meeting of the subcommittee and decide meeting procedure
+
+## 23. Dissent Act
+
+23.1. All committee members have the power to call the dissent act
+
+23.2. The dissent act will overide or reverse a decision made by the executive committee if possible
+
+23.3. Voting is open to ordinary members, with the voting occuring via a GM, EGM or online ballot
+
+23.4. A majority vote is needed for a successful dissent act to occur
+
+## 24. Other
+
+24.1. David Maxwell is eternal dictator of CASSA
 
 ## 25. Vote of no confidence
 
