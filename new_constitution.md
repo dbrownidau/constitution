@@ -111,17 +111,13 @@ The officers of the association shall be:
 ## 9. Executive Committee
 9.1. The administration of the Association shall be the responsibility of the Executive Committee
 
-The Executive Committee shall be comprised of ordinary members who shall be:
+The Executive Committee shall be comprised of:
 
-9.2. President
+9.2. The officers of the association
 
-9.3. Vice-President
+9.3. The chairpersons for each subcommittee
 
-9.4. Secretary
-
-9.5. Treasurer
-
-9.6. Chairperson of a subcommittee
+9.4. A regular member who shall be 
 
 Exectuive Committee members have the power to:
 
