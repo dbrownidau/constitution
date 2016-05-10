@@ -72,30 +72,30 @@ For the purposes of achieving or furthering these objectives, the Association sh
 5.1. The income and property shall be applied solely towards the promotion of the Association and within its stated objectives, and no portion of income or property shall be paid, transferred or distributed directly or indirectly to the members of the Association provided that nothing shall prevent the payment in good faith of remuneration to any officer or employee of the Association or to any person other than a member, in return for services actually rendered to, or by way or reimbursement for authorised expense incurred on behalf of the Association.
 
 ## 6. Membership
-Membership of the Association shall consist of two classes:
+Membership of the Association shall consist of three classes:
 
-6.1. Ordinary Membership - Students, Staff or Employees of Edith Cowan University who opt to become members of the association.
+6.1. Regular Membership - Students, Staff or Employees of Edith Cowan University who opt to become members of the association.
 
-6.2. Associate Membership - Approved by the executive committee on a yearly basis
+6.2. Affiliate Membership - Approved by the executive committee on a yearly basis
 
-6.3. Membership of the Association shall cease in accordance to the cease of membership provision contained within this Constitution.
+6.3. Alumni Membership - A regular member that has opted to remain in the club after leaving the university or club, other than being expelled and/or removed from the club as per clause 7.2
+
+6.4. Membership of the Association shall cease in accordance to the cease of membership provision contained within this Constitution.
 
 ## 7. Cease of Membership
 Membership of the Association shall cease if the member:
 
 7.1. Resigns via electronic media addressed to the executive committee of the association
 
-7.2. Is expelled by the executive committee due to hir conduct being detrimental to the interests of the association
+7.2. Is expelled by the executive committee due to the member's conduct being detrimental to the interests of the association
 
 7.3. Deceases
 
-7.4. Is expelled from Edith Cowan University
-
 If a member is expelled under subrule 7.2, they must be:
 
-7.5. Notified and given reason for their expulsion
+7.4. Notified and given reason for their expulsion
 
-7.6. Given oppurtunity to appeal against the decision using the dissent clause
+7.5. Given oppurtunity to appeal against the decision using the dissent clause
 
 ## 8. Officers of the Association
 The officers of the association shall be:
