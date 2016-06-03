@@ -117,7 +117,7 @@ The Executive Committee shall be comprised of:
 
 9.3. The chairpersons for each subcommittee
 
-9.4. A regular member who shall be 
+9.4. The presidential advisor
 
 Exectuive Committee members have the power to:
 
@@ -212,15 +212,15 @@ Expulsion from the Executive Committee may occur if:
 
 ## 17. President
 
-In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the President to :
+In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the President to:
 
-17.1. co-ordinate and supervise the work of the office-bearers.
+17.1. co-ordinate and supervise the work of the executive committee
 
 17.2. generally carry out the policy of the Association.
 
-17.3. take the chair at any meeting of the Association or of the Committee and decide meeting procedure.
+17.3. take the chair at any meeting of the Association or of the Committee and decide meeting procedure
 
-17.4. the President shall promote the aims of the Association and act as official representative and spokesperson of the Association.
+17.4. the President shall promote the aims of the Association and act as official representative and spokesperson of the Association
 
 17.5. the President shall have an additional casting vote when chairing any meeting of the Association where a vote on any matter is drawn
 
@@ -229,9 +229,9 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 18.1. assist the President wherever possible, or where requested, on behalf of the club
 
-18.2. to assume the chair at any meeting of the Association or of the Committee at which the President is absent.
+18.2. to assume the chair at any meeting of the Association or of the Committee at which the President is absent
 
-18.3. to coordinate the activities of all sub-committees, unless otherwise specified by the committee.
+18.3. to coordinate the activities of all subcommittees, unless otherwise specified by the committee
 
 ## 19. Secretary
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the Secretary to:
@@ -248,27 +248,31 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the Treasurer to:
 
-20.1. conduct and be responsible for all the Association’s financial transactions.
+20.1. conduct and be responsible for all the Association’s financial transactions
 
 20.2. provide for the signatories of the account to be any two office bearers
 
-20.3. provide for the account to be open to inspection of any member upon giving reasonable notice and purpose to the Treasurer at a time and place convenient to the Treasurer and the member.
+20.3. provide for the account to be open to inspection of any member upon giving reasonable notice and purpose to the Treasurer at a time and place convenient to the Treasurer and the member
 
-20.4. keep proper books of account dealing with the finances of the Association and to furnish the Committee with such accounts and information relating to the finances of the Association as it may from time to time require.
+20.4. keep proper books of account dealing with the finances of the Association and to furnish the Committee with such accounts and information relating to the finances of the Association as it may from time to time require
 
-20.5. arrange and be responsible for the handling of the petty cash and to render and account to each Committee meeting for all petty cash.
+20.5. arrange and be responsible for the handling of the petty cash and to render and account to each Committee meeting for all petty cash
 
-20.6. submit at the Annual General Meeting a balance sheet containing a summary of the assets and liabilities of the Association from the preceding financial year, and a budget for the coming year.
+20.6. submit at the Annual General Meeting a balance sheet containing a summary of the assets and liabilities of the Association from the preceding financial year, and a budget for the coming year
 
 20.7. shall receive all monies due and payable to the organisation and lodge them without delay in the Association’s account
 
-20.8. shall have custody of all securities, books and documents of a financial nature and accounting records of the Association.
+20.8. shall have custody of all securities, books and documents of a financial nature and accounting records of the Association
 
 20.9. shall perform such other duties as are imposed by these rules on the Treasurer.
 
-## 21. Subcommittees
+## 21. Presidential Advisor
 
-21.1. There shall be at least 3 subcommittees which shall be of the following:
+21.1. The Presidential Advisor can only be filled by the immediate past President. In such cases where this person cannot fulfill their duties, the immediate past Vice President will be asked to take the place as the Advisor. Should neither of the immediate past President or Vice President be able to undertake the position, it will be left open to other previous committee members.
+
+## 22. Subcommittees
+
+22.1. There shall be at least 2 subcommittees which shall include, but not be limited to one of the following:
 
 Social Committee
 
@@ -278,73 +282,71 @@ Technical Committee
 
 Representative Committee
 
-21.2. Each subcommittee shall have a chairperson
+22.2. Each subcommittee shall have a chairperson
 
-21.4. The management of a subcommittee shall be the duty of the corresponding chair-person
+22.4. The management of a subcommittee shall be the duty of the corresponding chairperson
 
-21.5. The goals and policy of the subcommittee shall be set by the executive committee
+22.5. The goals and policy of the subcommittee shall be set by the executive committee
 
-21.6. All members under a subcommittee shall be considered a committee member
+22.6. All members under a subcommittee shall be considered a committee member
 
-21.7. The executive committee shall have the power to add and remove committee members
+22.7. The executive committee shall have the power to add and remove committee members
 
-21.8. A committee member shall be a member of no more than two sub-committees
+22.8. A committee member shall be a member of no more than two subcommittees
 
-21.9. A subcommittee may act under any title approved by the executive committee
+22.9. A subcommittee may act under any title approved by the executive committee
 
-21.10. Committee members may act under a title approved by both theirselves and the executive committee
+22.10. Committee members may act under a title approved by both theirselves and the executive committee
 
-21.11. The executive committee shall have the power to establish and remove subcommittees
+22.11. The executive committee shall have the power to establish and remove subcommittees
 
-## 22. Subcommittee Chair
+## 23. Subcommittee Chair
 
-22.1. Each chairperson shall be an executive committee member
+23.1. Each chairperson of a subcommittee shall be an executive committee member
 
-22.2. The chairperson of a subcommittee shall be decided by the corresponding committee members by majority vote, recorded by the secretary
+23.2. The chairperson of a subcommittee shall be decided by the corresponding committee members by majority vote, documented by the secretary
 
-22.3. The chairperson of a subcommittee shall have an additional casting vote in their corresponding subcommittee where a vote on any matter is drawn
+23.3. The chairperson of a subcommittee shall have an additional casting vote in their corresponding subcommittee where a vote on any matter is drawn
 
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the chairperson to:
 
-22.4. co-ordinate and supervise the work of the corresponding committee members
+23.4. co-ordinate and supervise the work of the corresponding committee members
 
-22.5. generally carry out the policy of the corresponding subcommittee
+23.5. generally carry out the policy of the corresponding subcommittee
 
-22.6. take the chair at any meeting of the subcommittee and decide meeting procedure
+23.6. take the chair at any meeting of the subcommittee and decide meeting procedure
 
-## 23. Dissent Act
+## 24. Dissent Act
 
-23.1. All committee members have the power to call the dissent act
+24.1. All committee members have the power to call the dissent act
 
-23.2. The dissent act will overide or reverse a decision made by the executive committee if possible
+24.2. The dissent act will overide or reverse a decision made by the executive committee if possible
 
-23.3. Voting is open to ordinary members, with the voting occuring via a GM, EGM or online ballot
+24.3. The dissent act may be called on a policy other than the constitution, in which case the proposed change will be included in the vote
 
-23.4. A majority vote is needed for a successful dissent act to occur
+24.3. Voting is open to ordinary members, with the voting occuring via a GM, EGM or online ballot
 
-## 24. Other
-
-24.1. David Maxwell is eternal dictator of CASSA
+24.4. A majority vote is needed for a successful dissent act to occur
 
 ## 25. Vote of no confidence
 
-25.1. Any committee member has the power to call a vote of no confidence
+25.1. Any committee member and orginary member has the power to call a vote of no confidence
 
-25.2. A vote of no confidence must be called at least 7 days before the vote takes place
+25.2. All committee members and ordinary members will be able to case a vote on a vote of no confidence
 
-25.3. All committee members must be made to vote; They may be able to vote for, against or abstain from voting
+25.3. All committee members must be informed of the vote by the secretary; They may be able to vote for, against or abstain from voting
 
-25.4. A majority of the committee must vote for the removal of the executive committee member for a succesful vote of no confidence
+25.4. For a succesful vote of no confidence to occur, there must be an amount of votes in favour of the vote equal to the majority of the amount of committee members and a majority amount of those voting
 
-25.5. A successful vote of no confidence will see that the executive committee member in question is removed from their executive committee position
+25.5. A successful vote of no confidence will see that the committee member or executive committee member in question is removed from their position
 
-25.6. A vote of no confidence may be called anonymously via proxy by the secretary of the association
+25.6. A vote of no confidence may be called via proxy by the secretary of the association at the secretary's descretion
 
 ## 26. Dissolution
 
 26.1. The Association may at any time, with the consent of a majority of not less than 75% of the members voting at a General Meeting called for the purpose, be dissolved.
 
-26.2. If upon dissolution or winding up of the Association there remains after the satisfaction of all its debts and liabilities, any balance of funds whatsoever, the same shall not be distributed among the members or the Association but shall be transferred to the School of Computer and Security Science to be used to benefit students.
+26.2. If upon dissolution or winding up of the Association there remains after the satisfaction of all its debts and liabilities, any balance of funds whatsoever, the same shall not be distributed among the members or the Association but shall be transferred to the School of Science to be used to benefit students.
 
 ## 27. Inspection of Records
 
