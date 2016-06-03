@@ -198,15 +198,15 @@ Expulsion from the Executive Committee may occur if:
 
 ## 16. Elections
 
-16.1. Officers of the Association shall be elected yearly
+16.1. Officers of the Association shall be elected semesterly
 
-16.2. Ordinary members of the association must be given an opportunity of at least 14 days to nominate themselves or another ordinary member for an executive committee role
+16.2.  Election of the Officers of the Association occurs at the AGM and end of semester meeting and takes effect at the conclusion of the meeting
 
-16.3. Ordinary members of the association must be given an opportunity of at least 14 days to vote for a candidate using electronic media
+16.3.  Election for the four officer positions and Committee positions will be held by a show of hands and electronic ballot unless the meeting otherwise resolves
 
-16.4. Existing votes may be changed at any time before the votes are counted at the annual general meeting
+16.4.  Nominations for election will be called from the floor at the beginning of the AGM
 
-16.5. Election of the Officers of the Association and members of the Committee occurs at the AGM and takes effect at the conclusion of the meeting
+16.5. Existing votes may be changed at any time before the votes are counted at the annual general meeting
 
 16.6. Should there be a vacancy, a new Officer of the Association may be voted in by any individual nominated by an existing executive committee member or a staff member of ECU
 
