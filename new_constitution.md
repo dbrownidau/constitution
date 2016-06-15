@@ -8,42 +8,50 @@ The official name of the association shall be:
 1.2. 'CASSA' as an abreviation
 
 ## 2. Definitions
-In these rules, unless the contrary intention appears:
+2.1. “Committee” meaning the Committee of the association; 
 
-2.1. “Committee” means the Committee of the Association; 
+2.2. “Committee  meeting” meaning the meeting of committee members, including electronic or virtual meetings;
 
-2.2. “Committee  meeting” means meeting of the committee members, including electronic and virtual meeting;
+2.3. “Financial year” meaning each period of 12 months commencing at the expiration of the previous financial year of the association;
 
-2.3. “Financial year” means each period of 12 months commencing at the expiration of the previous financial year of the association;
+2.4. “General meeting” meaning meeting convened of the Association, including electronic or virtual meetings;
 
-2.4. “General meeting” means meeting convened of the Association, including electronic and virtual meeting;
+2.5. “The Association” meaning the Computing And Security Student Association (CASSA).
 
-2.5. “The Association” means the name of the Computer And Security Student Association (CASSA).
+2.6. “Staff” meaning technical, support, administrative or academic staff members of Edith Cowan University.
 
-2.6. “Staff” means technical, support, administrative or academic staff members of the School of Science at Edith Cowan University.
+2.7. “School” or “SSci” meaning the School of Science at Edith Cowan University.
 
-2.7. “School” or “SSci” means the School of Science at Edith Cowan University.
+2.8. "University" meaning Edith Cowan University.
+
+2.9. "Students" meaning both Undergraduate and Postgraduate students.
+
+2.10 "AGM" meaning Annual General Meeting.
+
+2.11 "Semester" meaning the academic semester of the University.
+
+2.12 "EGM" meaning Extraoridinary General Meeting.
 
 ## 3. Objectives
 The Objectives of the Association shall be to:
 
-3.1. Formally represent all Undergraduate and Postgraduate degree students undertaking units from the School of Science at ECU; and staff; in all the relevant University forums.
+3.1. Formally represent all SSci students and staff, in all the relevant University forums.
 
-3.2. Improve the provision of information to: Undergraduate and Postgraduate degree students; and to staff.
+3.2. Improve the provision of information to students and staff.
 
-3.3. Improve communication between students, and between the School and University and the School’s Undergraduate and Postgraduate degree students and staff.
+3.3. Improve communication between students, staff, the School and the University.
 
 3.4. Encourage the spirit of collegiality at ECU and promote the sense of membership of a community of scholars.
 
 3.5. Promote intellectual and social interaction at the University.
 
-3.6. Campaign for improvement in the standards of services and facilities for Undergraduate and Postgraduate degree students and staff of the School of Science.
+3.6. Campaign for improvement in the standards of services and facilities for students and staff of the School.
 
-3.7. Promote employment and enterprise opportunities for Undergraduate and Postgraduate degree students at ECU and elsewhere.
+3.7. Promote employment and enterprise opportunities for students at ECU and elsewhere.
 
 3.8. Connect students to industry professionals, potential employers, researchers and students of other tertiary and post-secondary colleges.
 
-3.9. Encourage and promote co-operation between this Association and other ECU Student Associations
+3.9. Encourage and promote cooperation between this Association and other ECU Student Associations.
 
 3.10. Provide a platform for SSci students and staff to present their views, projects, ideas, criticism, etc.
 
@@ -56,46 +64,49 @@ For the purposes of achieving or furthering these objectives, the Association sh
 
 4.1. Acquire, hold, deal with and dispose of any real property, provided that this is in accordance with ECU policy.
 
-4.2. Open and operate bank accounts;
+4.2. Open and operate bank accounts.
 
-4.3. Borrow, raise or secure payment of money.
+4.3. Borrow, raise and/or secure payment for the purpose of raising funds.
 
-4.4. Secure the payment or performance of any debt, liability, or guarantee incurring or entering into by the Association, provided that this does not contravene University Policy.
+4.4. Secure the payment or performance of any debt, liability, or guarantee as entered into by the Association, provided that this does not contravene University Policy.
 
-4.5. Appoint agents to transact business of the Association on its behalf. Engage and dismiss employees (guest speakers, specialists, etc).
+4.5. Appoint agents to transact business of behalf of the Association. For example by engaging and dismissing employees (guest speakers, specialists, etc).
 
 4.6. Do all such things as are incidental or conductive to the objectives of the Association.
 
-4.7. Enter into any other contract it considers necessary or desirable
+4.7. Enter into any other contract it considers necessary or desirable.
 
 ## 5. Income & Property
-5.1. The income and property shall be applied solely towards the promotion of the Association and within its stated objectives, and no portion of income or property shall be paid, transferred or distributed directly or indirectly to the members of the Association provided that nothing shall prevent the payment in good faith of remuneration to any officer or employee of the Association or to any person other than a member, in return for services actually rendered to, or by way or reimbursement for authorised expense incurred on behalf of the Association.
+
+5.1. The income and property of the Association shall not be given, directly or indirectly, to any members of the Association with the exception of payment for goods/services rendered.
+
+5.2. All payments are to be approved by the Treasurer and at least one more officer.
 
 ## 6. Membership
 Membership of the Association shall consist of three classes:
 
-6.1. Regular Membership - Students, Staff or Employees of Edith Cowan University who opt to become members of the association.
+6.1. Regular Membership - Students, Staff or Employees of Edith Cowan University who opt to become members of the Association.
 
-6.2. Affiliate Membership - Approved by the executive committee on a yearly basis
+6.2. Affiliate Membership - Approved by the executive committee on a yearly basis.
 
-6.3. Alumni Membership - A regular member that has opted to remain in the club after leaving the university or club, other than being expelled and/or removed from the club as per clause 7.2
+6.3. Alumni Membership - A regular member that has opted to remain in the club after leaving the university, other than being expelled and/or removed from the club as per provision 7.2.
 
-6.4. Membership of the Association shall cease in accordance to the cease of membership provision contained within this Constitution.
+6.4. Membership of the Association shall cease in accordance to the Cease of Membership provision contained within this Constitution.
 
 ## 7. Cease of Membership
 Membership of the Association shall cease if the member:
 
-7.1. Resigns via electronic media addressed to the executive committee of the association
+7.1. Resigns via electronic media as approved by the Committee.
 
-7.2. Is expelled by the executive committee due to the member's conduct being detrimental to the interests of the association
+7.2. Is expelled by the Committee due to the member's conduct being detrimental to the interests of the Association.
+
+If a member is expelled under provision 7.2, they must be:
+
+7.2.1. Notified and given reason for their expulsion.
+
+7.2.2. Given oppurtunity to appeal against the decision using the dissent provision.
 
 7.3. Deceases
-
-If a member is expelled under subrule 7.2, they must be:
-
-7.4. Notified and given reason for their expulsion
-
-7.5. Given oppurtunity to appeal against the decision using the dissent clause
 
 ## 8. Officers of the Association
 The officers of the association shall be:
@@ -109,269 +120,260 @@ The officers of the association shall be:
 8.4. Treasurer
 
 ## 9. Executive Committee
-9.1. The administration of the Association shall be the responsibility of the Executive Committee
+9.1. The administration of the Association shall be the responsibility of the Executive Committee. The Executive Committee shall be comprised of:
+9.1.1. The officers of the association
 
-The Executive Committee shall be comprised of:
+9.1.2. The chairpersons for each subcommittee
 
-9.2. The officers of the association
+9.1.3. The presidential advisor
 
-9.3. The chairpersons for each subcommittee
+9.2. Exectuive Committee members have the power to:
 
-9.4. The presidential advisor
+9.2.1. Elect Committee members and assign them with a role.
 
-Exectuive Committee members have the power to:
+9.2.2. Remove a non-executive Committee member from their role.
 
-9.10. Elect Committee members and assign them with a role
+9.2.3. Temporarily fill any vacancies in the executive committee.
 
-9.11. Remove a casual committee member from their role
-
-9.12. Temporarily fill any vacancy's in the executive committee
-
-## 10. Expulsion from the Executive Committee
+9.3. Expulsion from the Executive Committee
 Expulsion from the Executive Committee may occur if:
 
-10.1. The offendant fails to attend 3 consecutive general meetings
+9.3.1. The offendant fails to attend 3 consecutive general meetings.
 
-10.2. There is a succesful vote of no confidence
+9.3.2. There is a succesful vote of no confidence.
 
-## 11. General Committee Meeting
-11.1. A general committee meeting may only be called by the President and Secretary
+## 10. General Committee Meeting
+10.1. A general committee meeting may only be called by the President and Secretary
 
-11.2. The quorum of a general committee meeting must be equal to a majority of the amount of committee members
+10.2. The quorum of a general committee meeting must be equal to a majority of the amount of committee members.
 
-11.3. The committee may convene via tele-conferencing or other accepted electronic communication
+10.3. The committee may convene via teleconferencing or other accepted forms of electronic communication.
 
-11.4. The Secretary shall give all members of the committee written or electronic notice of all general committee meetings at least 4 working days before the date fixed for the holding therof.
+10.4. The Secretary shall give all members of the committee written or electronic notice of all general committee meetings at least 4 working days before the date fixed for the holding therof.
 
-11.5. General Committee Meetings are open to all members unless rejected by the committee
+10.5. General Committee Meetings are open to all members unless rejected by the committee.
 
-## 12. Annual General Meeting
-12.1. The Annual General Meeting shall be held either at the end or the start of the academic year
+## 11. Annual General Meeting
+11.1. The Annual General Meeting shall be held either at the end or the start of the academic year.
 
-12.2. The quorum shall be equal to at least two thirds of the amount of committee members
+11.2. The quorum shall be equal to at least two thirds of the amount of committee members.
 
-12.3. At least 1 months notice shall be given of the Annual General Meeting 
+11.3. At least 1 months notice shall be given of the Annual General Meeting.
 
-12.4. Confirmation of minutes 
+11.4. As part of the outcome of the Annual General Meeting, the following must be produced by the appropriate Committee members:
 
-12.5. The President's Report
+11.4.1. Confirmation of minutes 
 
-12.6. The Treasurer's Report; including a Statement of Accounts for the preceding financial year
+11.4.2. The President's Report
 
-12.7. The Tech Committee's Report
+11.4.3. The Treasurer's Report; including a Statement of Accounts for the preceding financial year
 
-12.8. The Social Committee's Report
+11.4.4. Reports for each individual subcommittee.
 
-12.9. The Academic Committee's Report
+11.4.5. The election for the new executive committee.
 
-12.10. The Representative Committee's Report
+## 12. Extraordinary General Meeting
 
-12.11. The election for the new executive committee
+12.1. An extraordinary general meeting can be called by majority vote of at least half of the committee
 
-12.12. General business
+12.2. The quroum shall be the same as in provision 11.2.
 
-## 13. Extraordinary General Meeting
+12.3. The association shall give notice of the meeting as in provision 11.3.
 
-13.1. An extraordinary general meeting can be called by majority vote of at least half of the commitee
+## 13. Voting
 
-13.2. The quroum shall be the same as in Clause 11.2.
+13.1. At any meeting of members of the Association, be it a General, Extraordinary, or Committee meeting, a resolution shall be decided by a simple majority of those voting.
 
-13.3. The association shall give notice of the meeting as in Clause 11.4.
+13.2. Voting shall be conducted by a show of hands of those present.
 
-## 14. Voting
+13.3. Only regular members and committee members of the Association shall be eligible to vote.
 
-14.1. At any meeting of members of the Association, be it a General, Extraordinary, or Committee meeting, a resolution shall be decided by a simple majority of those voting
+13.4. Under no circumstances shall right of voting by proxy be permitted.
 
-14.2. Voting shall be conducted by a show of hands of those present
+13.5. Unless otherwise stated, quorum for a vote to be possible must atleast 50% of the voting body.
 
-14.3. Only ordinary members and committee members of the Association shall be eligible to vote
+## 14. Minutes of Meetings
 
-14.4. Under no circumstances shall right of voting by proxy be permitted
+14.1. The Secretary, or in their absence, another member, shall keep Minutes of all General Meetings, Extraordinary Meetings and Annual General Meetings.
 
-## 15. Minutes of Meetings
+14.2. Minutes of the proceedings shall be available for all members of the association.
 
-15.1. The Secretary, or in hir absence another member, shall keep Minutes of all General Meetings, Extraordinary Meetings and Annual General Meetings
+14.3. Minutes of all meetings shall be open to inspection upon the giving of reasonable notice by any member at a time and place convenient to the Secretary and to the member, or via the internet.
 
-15.2. Minutes of the proceedings shall be available for all members of the association
+## 15. Elections
 
-15.3. Minutes of all meetings shall be open to inspection upon the giving of reasonable notice by any member at a time and place convenient to the Secretary and to the member, or via the internet
+15.1. Officers of the Association shall be elected semesterly
 
-## 16. Elections
+15.2. Election of the Officers of the Association occurs at the AGM and end of semester meeting and takes effect at the conclusion of the meeting.
 
-16.1. Officers of the Association shall be elected semesterly
+15.3. Election for the four officer positions and Committee positions will be determined by vote.
 
-16.2.  Election of the Officers of the Association occurs at the AGM and end of semester meeting and takes effect at the conclusion of the meeting
+15.4. Nominations for election will be called from the floor at the beginning of the voting section of the meeting.
 
-16.3.  Election for the four officer positions and Committee positions will be held by a show of hands and electronic ballot unless the meeting otherwise resolves
+15.5. Existing votes may be changed at any time before the votes are counted.
 
-16.4.  Nominations for election will be called from the floor at the beginning of the AGM
+15.6. Should there be a vacancy, a new Officer of the Association may be voted in by any existing executive committee members or staff of ECU.
 
-16.5. Existing votes may be changed at any time before the votes are counted at the annual general meeting
-
-16.6. Should there be a vacancy, a new Officer of the Association may be voted in by any individual nominated by an existing executive committee member or a staff member of ECU
-
-## 17. President
+## 16. President
 
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the President to:
 
-17.1. co-ordinate and supervise the work of the executive committee
+16.1. Coordinate and supervise the work of the executive committee.
 
-17.2. generally carry out the policy of the Association.
+16.2. Generally carry out the policy of the Association.
 
-17.3. take the chair at any meeting of the Association or of the Committee and decide meeting procedure
+16.3. Take the chair at any meeting of the Association or of the Committee and decide meeting procedure.
 
-17.4. the President shall promote the aims of the Association and act as official representative and spokesperson of the Association
+16.4. Promote the aims of the Association and act as an official representative and spokesperson of the Association.
 
-17.5. the President shall have an additional casting vote when chairing any meeting of the Association where a vote on any matter is drawn
+16.5. Have an additional casting vote when chairing any meeting of the Association where a vote on any matter is drawn.
 
-## 18. Vice President
+## 17. Vice President
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the Vice-President to:
 
-18.1. assist the President wherever possible, or where requested, on behalf of the club
+17.1. Assist the President wherever possible, or where requested, on behalf of the Association.
 
-18.2. to assume the chair at any meeting of the Association or of the Committee at which the President is absent
+17.2. To assume the chair at any meeting of the Association or of the Committee at which the President is absent.
 
-18.3. to coordinate the activities of all subcommittees, unless otherwise specified by the committee
+17.3. To coordinate the activities of all subcommittees, unless otherwise specified by the committee.
 
-## 19. Secretary
+## 18. Secretary
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the Secretary to:
 
-19.1. record all proceedings of the Association and the Committee in an Association minute book, file or electronic archive, which he/she shall cause to be provided for that purpose
+18.1. Record all proceedings of the Association and the Committee in an Association minute book, file or electronic archive, which they shall cause to be provided for that purpose.
 
-19.2. table and maintain records of any correspondence received and sent by the Association
+18.2. Maintain records of any correspondence received and sent by the Association.
 
-19.3. have custody of all books, documents, records and registers of the Association
+18.3. Have custody of all books, documents, records and registers of the Association.
 
-19.4.  perform such other duties as are imposed by these rules on the Secretary
+18.4. Perform such other duties as are imposed by these provisions of the Secretary.
 
-## 20. Treasurer
+## 19. Treasurer
 
 In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the Treasurer to:
 
-20.1. conduct and be responsible for all the Association’s financial transactions
+19.1. Conduct and be responsible for all the Association’s financial transactions.
 
-20.2. provide for the signatories of the account to be any two office bearers
+19.2. Select the signatories for the accounts from any Committee member.
 
-20.3. provide for the account to be open to inspection of any member upon giving reasonable notice and purpose to the Treasurer at a time and place convenient to the Treasurer and the member
+19.3. Provide for the account to be open to inspection of any member upon giving reasonable notice and purpose to the Treasurer at a time and place convenient to the Treasurer and the member.
 
-20.4. keep proper books of account dealing with the finances of the Association and to furnish the Committee with such accounts and information relating to the finances of the Association as it may from time to time require
+19.4. Keep proper books of account dealings with the finances of the Association and to furnish the Committee with such accounts and information relating to the finances of the Association as it may from time to time be required.
 
-20.5. arrange and be responsible for the handling of the petty cash and to render and account to each Committee meeting for all petty cash
+19.5. Arrange and be responsible for the handling of the petty cash and to render and account to each Committee meeting for all petty cash.
 
-20.6. submit at the Annual General Meeting a balance sheet containing a summary of the assets and liabilities of the Association from the preceding financial year, and a budget for the coming year
+19.6. Submit at the Annual General Meeting a balance sheet containing a summary of the assets and liabilities of the Association from the preceding financial year, and a budget for the coming year.
 
-20.7. shall receive all monies due and payable to the organisation and lodge them without delay in the Association’s account
+19.7. Shall receive all money due and payable to the organisation and lodge them without delay in the Association’s account.
 
-20.8. shall have custody of all securities, books and documents of a financial nature and accounting records of the Association
+19.8. Shall have custody of all securities, books and documents of a financial nature and accounting records of the Association.
 
-20.9. shall perform such other duties as are imposed by these rules on the Treasurer.
+19.9. Shall perform such other duties as are imposed by these provisions of the Treasurer.
 
-## 21. Presidential Advisor
+## 20. Presidential Advisor
 
-21.1. The Presidential Advisor can only be filled by the immediate past President. In such cases where this person cannot fulfill their duties, the immediate past Vice President will be asked to take the place as the Advisor. Should neither of the immediate past President or Vice President be able to undertake the position, it will be left open to other previous committee members.
+20.1. The Presidential Advisor can only be filled by a past President or Vice-President.
 
-## 22. Subcommittees
+20.2 The Presential Advisor is chosen by the President shortly after their election.
 
-22.1. There shall be at least 2 subcommittees which shall include, but not be limited to one of the following:
+## 21. Subcommittees
 
-Social Committee
+21.1. There shall be at least 2 subcommittees which shall include, but not be limited to the following:
 
-Academic Committee
+21.1.1. Social Committee
 
-Technical Committee
+21.1.2. Academic Committee
 
-Representative Committee
+21.1.3. Technical Committee
 
-22.2. Each subcommittee shall have a chairperson
+21.1.4. Representative Committee
 
-22.4. The management of a subcommittee shall be the duty of the corresponding chairperson
+21.2. Each subcommittee shall have a chairperson.
 
-22.5. The goals and policy of the subcommittee shall be set by the executive committee
+21.4. The management of a subcommittee shall be the duty of the corresponding chairperson.
 
-22.6. All members under a subcommittee shall be considered a committee member
+21.5. The goals and policy of the subcommittee shall be set by the executive committee.
 
-22.7. The executive committee shall have the power to add and remove committee members
+21.6. All members under a subcommittee shall be considered a committee member.
 
-22.8. A committee member shall be a member of no more than two subcommittees
+21.7. The executive committee shall have the power to add and remove committee members.
 
-22.9. A subcommittee may act under any title approved by the executive committee
+21.8. A committee member shall be a member of no more than two subcommittees.
 
-22.10. Committee members may act under a title approved by both theirselves and the executive committee
+21.9. A subcommittee may act under any title approved by the executive committee.
 
-22.11. The executive committee shall have the power to establish and remove subcommittees
+21.10. Committee members may act under a title approved by both themselves and the executive committee.
 
-## 23. Subcommittee Chair
+21.11. The executive committee shall have the power to establish and remove subcommittees.
 
-23.1. Each chairperson of a subcommittee shall be an executive committee member
+## 22. Subcommittee Chair
 
-23.2. The chairperson of a subcommittee shall be decided by the corresponding committee members by majority vote, documented by the secretary
+22.1. Each chairperson of a subcommittee shall be an executive committee member.
 
-23.3. The chairperson of a subcommittee shall have an additional casting vote in their corresponding subcommittee where a vote on any matter is drawn
+22.2. The chairperson of a subcommittee shall be decided by the corresponding committee members by majority vote, documented by the Secretary.
 
-In addition to any provisions set out elsewhere in this constitution or in any regulations made hereunder, it shall be the duty of the chairperson to:
+22.3. The chairperson of a subcommittee shall have an additional casting vote in their corresponding subcommittee where a vote on any matter is drawn.
 
-23.4. co-ordinate and supervise the work of the corresponding committee members
+22.4 Subcommittee Chair responsibilities:
 
-23.5. generally carry out the policy of the corresponding subcommittee
+22.4.1. Coordinate and supervise the work of the corresponding committee members.
 
-23.6. take the chair at any meeting of the subcommittee and decide meeting procedure
+22.4.2. Generally carry out the policy of the corresponding subcommittee.
 
-## 24. Dissent Act
+22.4.3. Take the chair at any meeting of the subcommittee and decide meeting procedure.
 
-24.1. All committee members have the power to call the dissent act
+## 23. Dissent
 
-24.2. The dissent act will overide or reverse a decision made by the executive committee if possible
+23.1. All committee members have the power to call on the dissent provision.
 
-24.3. The dissent act may be called on a policy other than the constitution, in which case the proposed change will be included in the vote
+23.2. This will overide or reverse a decision made by the executive committee if possible.
 
-24.3. Voting is open to ordinary members, with the voting occuring via a GM, EGM or online ballot
+23.3. This may be called on a policy other than the constitution, in which case the proposed change will be included in the vote.
 
-24.4. A majority vote is needed for a successful dissent act to occur
+23.3. Voting is open to regular members, with the voting occuring via a meeting or online ballot.
 
-## 25. Vote of no confidence
+23.4. A majority vote is needed for dissent to successfully occur.
 
-25.1. Any committee member and orginary member has the power to call a vote of no confidence
+## 24. Vote of no confidence
 
-25.2. All committee members and ordinary members will be able to case a vote on a vote of no confidence
+24.1. Any committee member or regular member has the power to call a vote of no confidence.
 
-25.3. All committee members must be informed of the vote by the secretary; They may be able to vote for, against or abstain from voting
+24.2. All committee members and regular members will be able to cast a vote on a vote of no confidence.
 
-25.4. For a succesful vote of no confidence to occur, there must be an amount of votes in favour of the vote equal to the majority of the amount of committee members and a majority amount of those voting
+24.3. All committee members must be informed of the vote by the secretary; They may be able to vote for, against or abstain from voting.
 
-25.5. A successful vote of no confidence will see that the committee member or executive committee member in question is removed from their position
+24.4. For a succesful vote of no confidence to occur, there must be an amount of votes in favour of the vote equal to the majority those voting.
 
-25.6. A vote of no confidence may be called via proxy by the secretary of the association at the secretary's descretion
+24.5. A successful vote of no confidence will see that the committee member or executive committee member in question is removed from their position.
 
-## 26. Dissolution
+24.6. A vote of no confidence may be called via proxy by the secretary of the association at the secretary's descretion
 
-26.1. The Association may at any time, with the consent of a majority of not less than 75% of the members voting at a General Meeting called for the purpose, be dissolved.
+## 25. Dissolution
 
-26.2. If upon dissolution or winding up of the Association there remains after the satisfaction of all its debts and liabilities, any balance of funds whatsoever, the same shall not be distributed among the members or the Association but shall be transferred to the School of Science to be used to benefit students.
+25.1. The Association may at any time, with the consent of a majority of no less than 75% of the members voting at a General Meeting called for the purpose, be dissolved.
 
-## 27. Inspection of Records
+25.2. If upon dissolution or winding up of the Association there remains after the satisfaction of all its debts and liabilities, any balance of funds whatsoever, the same shall not be distributed among the members or the Association but shall be transferred to the School of Science to be used to benefit students.
 
-27.1. A freely accessible copy of the Constitution will be permanently published
+## 26. Inspection of Records
 
-27.2. A member or staff may at any reasonable time inspect without charge the books, documents, records and securities of the Association
+26.1. A freely accessible copy of the Constitution will be permanently published.
 
-## 28. Alterations of Constitution
+26.2. A member or staff may at any reasonable time inspect without charge the books, documents, records and securities of the Association.
 
-28.1. No alterations, addition or amendment of this Constitution or any Regulations made hereunder shall be made unless and until carried by a resolution at any General Meeting called specifically for the purpose by the majority of at least two thirds of the members voting.
+## 27. Alterations of Constitution
 
-28.2. Notice of any proposed alteration, addition or amendment must be included in the notice of an AGM or EGM which must allow for 14 days’ notice to members.
+27.1. No alterations, addition or amendment of this Constitution or any Regulations made hereunder shall be made unless and until carried by a resolution at any General Meeting called specifically for the purpose by the majority of at least two thirds of the members voting.
 
-28.3. These rules bind every member and the Association to the same extent as if every member and the Association had signed and sealed these rules and agreed to be bound by all their provisions.
+27.2. Notice of any proposed alteration, addition or amendment must be included in the notice of an AGM or EGM which must allow for 14 days’ notice to members.
 
-28.4. Copies of amendments to the Constitution shall be forwarded to the Staff Representative or a nominee of Edith Cowan University within 10 days of being approved.
+27.3. These provisions bind every member and the Association to the same extent as if every member and the Association had signed and agreed to be bound by it.
 
-28.5. Under exceptional circumstances, the Committee may decide to make changes to the constitution and allow acceptance via voting online. All CASSA members will be emailed with the proposed change, to which a tally of all positive and negative responses will determine the modification to the constitution.
+27.4. Copies of amendments to the Constitution shall be forwarded to the Staff Representative or a nominee of the University within 10 days of being approved.
 
-28.6. The constitution shall be reviewed on a biennial basis at least.
+27.5. Under exceptional circumstances, the Committee may decide to make changes to the constitution and allow acceptance via voting online. All CASSA members will be emailed with the proposed change, to which a tally of all positive and negative responses will determine the modification to the constitution.
 
-## 29. Regulations
+27.6. The constitution shall be reviewed on an annual basis at least.
 
-29.1. The Committee shall have the power to make Regulations, or direct that regulations be made, for the proper conduct of the responsibilities specified in any of the clauses of the Constitution.
+## 28. Regulations
 
-## 30. Validation
-
-30.1. All acts done in good faith by the Committee shall, notwithstanding the subsequent discovery of some defect in the election of any member, be as valid as if such member had been duly elected
+28.1. The Committee shall have the power to make Regulations, or direct that regulations be made, for the proper conduct of the responsibilities specified in any of the provisions of the Constitution.
