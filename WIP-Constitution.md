@@ -343,15 +343,15 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 23. Dissent
 -----------
-23.1. All committee members have the power to call on the dissent provision.
+23.1. All members with voting rights have the power to call on the dissent provision.
 
-23.2. This will overide or reverse a decision made by the executive committee if possible.
+23.2. This will overide or reverse a decision made by the executive committee, if possible.
 
-23.3. This may be called on a policy other than the constitution, in which case the proposed change will be included in the vote.
+23.3. This may only be called upon actions or policies in which a vote has not been drawn (see 13.).
 
-23.3. Voting is open to committee members, entitled members and alumni members, with the voting occuring via a meeting or online ballot.
+23.4. Proposed changes will be presented when performing a vote of dissent.
 
-23.4. A majority vote is needed for dissent to successfully occur.
+23.5. A majority vote is needed for dissent to successfully occur.
 
 24. Vote of no confidence
 -------------------------
