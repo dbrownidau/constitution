@@ -87,9 +87,11 @@ For the purposes of achieving or furthering these objectives, the Association sh
 
 5. Income & Property
 --------------------
-5.1. The income and property of the Association shall not be given, directly or indirectly, to any members of the Association with the exception of payment for goods/services rendered.
+5.1. The property and income of the association must be applied solely towards the promotion of the objects or purposes of the association and no part of that property or income may be paid or otherwise distributed, directly or indirectly, to any member of the association, except in good faith in the promotion of those objects or purposes.
 
-5.2. All payments are to be approved by the Treasurer and at least one more officer.
+5.2. The income and property of the Association shall not be given, directly or indirectly, to any members of the Association with the exception of payment for goods/services rendered.
+
+5.3. All payments are to be approved by the Treasurer and President or Vice President.
 
 6. Membership
 -------------
