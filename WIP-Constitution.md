@@ -157,17 +157,29 @@ Expulsion from the Executive Committee may occur if:
 
 9.3.2. There is a succesful vote of no confidence.
 
-10. General Committee Meeting
------------------------------
-10.1. A general committee meeting may only be called by the President and Secretary
+10. General Meeting
+-------------------
+10.1. A general meeting may only be called by the President or Secretary.
 
-10.2. The quorum of a general committee meeting must be equal to a majority of the amount of committee members.
+10.2. The quorum for a general meeting must be equal to a majority of the amount of committee members.
 
-10.3. The committee may convene via teleconferencing or other accepted forms of electronic communication.
+10.3. General Meetings are to be held in person at either the University or a voted upon location.
 
-10.4. The Secretary shall give all members of the committee written or electronic notice of all general committee meetings at least 4 working days before the date fixed for the holding therof.
+10.4. The Secretary shall give all members with voting rights notice via email of all general meetings at least 4 working days before the date fixed for the holding therof.
 
-10.5. General Committee Meetings are open to all members unless rejected by the committee.
+10.5. General Meetings are open to all members.
+
+11. Committee Meeting
+---------------------
+11.1. A committee meeting may only be called by the President or Secretary.
+
+11.2. The quorum for a committee meeting must be equal to a majority of the amount of committee members.
+
+11.3. General Meetings are to be held in person at either the University or a voted upon location, or via teleconferencing.
+
+11.4. The Secretary shall give all members with voting rights notice via email of all general meetings at least 4 working days before the date fixed for the holding therof.
+
+11.5. General Meetings are open to all members, unless rejected by the committee.
 
 11. Annual General Meeting
 --------------------------
@@ -191,7 +203,7 @@ Expulsion from the Executive Committee may occur if:
 
 12. Extraordinary General Meeting
 ---------------------------------
-12.1. An extraordinary general meeting can be called by majority vote of at least half of the committee
+12.1. An extraordinary general meeting can be called by the result of a vote.
 
 12.2. The quroum shall be the same as in provision 11.2.
 
