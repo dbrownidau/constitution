@@ -199,15 +199,17 @@ Expulsion from the Executive Committee may occur if:
 
 13. Voting
 ----------
-13.1. At any meeting of members of the Association, be it a General, Extraordinary, or Committee meeting, a resolution shall be decided by a simple majority of those voting.
+13.1. At any meeting of members of the Association a resolution shall be decided by a simple majority of those voting.
 
-13.2. Voting shall be conducted by a show of hands of those present.
+13.2. Voting shall be conducted by a show of hands of those present at a General Meeting, Committee Meeting, EGM or AGM.
 
-13.3. Only entitled members, alumni members and committee members of the Association shall be eligible to vote.
+13.3. Voting is permitted to be conducted by online ballot, sent to all members with voting rights via email.
 
-13.4. Under no circumstances shall right of voting by proxy be permitted.
+13.4. Only entitled members, alumni members and committee members of the Association shall be eligible to vote.
 
-13.5. Unless otherwise stated, quorum for a vote to be possible must atleast 50% of the voting body.
+13.5. Under no circumstances shall right of voting by proxy be permitted.
+
+13.6. Unless otherwise stated, the quorum for a vote to be valid is equal to a majority of the amount of committee members.
 
 14. Minutes of Meetings
 -----------------------
