@@ -29,15 +29,15 @@ The official name of the association shall be:
 
 2.9. "SCIS" meaning the School of Computer and Information Science at Edith Cowan University.
 
-2.8. "University" meaning Edith Cowan University.
+2.10. "University" meaning Edith Cowan University.
 
-2.9. "Students" meaning both Undergraduate and Postgraduate students.
+2.11. "Students" meaning both Undergraduate and Postgraduate students.
 
-2.10 "AGM" meaning Annual General Meeting.
+2.12. "AGM" meaning Annual General Meeting.
 
-2.11 "Semester" meaning the academic semester of the University.
+2.13. "Semester" meaning the academic semester of the University.
 
-2.12 "EGM" meaning Extraoridinary General Meeting.
+2.14. "EGM" meaning Extraoridinary General Meeting.
 
 3. Objectives
 -------------
@@ -385,7 +385,7 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 27.2. Notice of any proposed alteration, addition or amendment must be included in the notice of an AGM or EGM which must allow for 14 days’ notice to members.
 
-27.3. These provisions bind every member and the Association to the same extent as if every member and the Association had signed and agreed to be bound by it.
+27.3. The rules of an incorporated association bind the association and the members of the association as if they contained an agreement on the part of each member to be bound by and observe all the provisions of the rules; and that agreement were duly executed by each member.
 
 27.4. Copies of amendments to the Constitution shall be forwarded to the Staff Representative or a nominee of the University within 10 days of being approved.
 
