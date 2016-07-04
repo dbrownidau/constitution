@@ -25,6 +25,10 @@ The official name of the association shall be:
 
 2.7. “School” or “SSci” meaning the School of Science at Edith Cowan University.
 
+2.8. "SCSS' meaning the School of Computer and Security Science at Edith Cowan University.
+
+2.9. "SCIS" meaning the School of Computer and Information Science at Edith Cowan University.
+
 2.8. "University" meaning Edith Cowan University.
 
 2.9. "Students" meaning both Undergraduate and Postgraduate students.
@@ -91,11 +95,11 @@ For the purposes of achieving or furthering these objectives, the Association sh
 -------------
 Membership of the Association shall consist of three classes:
 
-6.1. Regular Membership - Students, Staff or Employees of Edith Cowan University who opt to become members of the Association.
+6.1. Entitled Membership - Students or Staff of SSci who opt to become members of the Association.
 
 6.2. Affiliate Membership - Approved by the executive committee on a yearly basis.
 
-6.3. Alumni Membership - A regular member that has opted to remain in the club after leaving the university, other than being expelled and/or removed from the club as per provision 7.2.
+6.3. Alumni Membership - Past students or Staff of SSci, SCSS or SCIS who opt to become members of the Association.
 
 6.4. Membership of the Association shall cease in accordance to the Cease of Membership provision contained within this Constitution.
 
@@ -199,7 +203,7 @@ Expulsion from the Executive Committee may occur if:
 
 13.2. Voting shall be conducted by a show of hands of those present.
 
-13.3. Only regular members and committee members of the Association shall be eligible to vote.
+13.3. Only entitled members, alumni members and committee members of the Association shall be eligible to vote.
 
 13.4. Under no circumstances shall right of voting by proxy be permitted.
 
@@ -345,15 +349,15 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 23.3. This may be called on a policy other than the constitution, in which case the proposed change will be included in the vote.
 
-23.3. Voting is open to regular members, with the voting occuring via a meeting or online ballot.
+23.3. Voting is open to committee members, entitled members and alumni members, with the voting occuring via a meeting or online ballot.
 
 23.4. A majority vote is needed for dissent to successfully occur.
 
 24. Vote of no confidence
 -------------------------
-24.1. Any committee member or regular member has the power to call a vote of no confidence.
+24.1. Any committee member, entitled member or alumni member has the power to call a vote of no confidence.
 
-24.2. All committee members and regular members will be able to cast a vote on a vote of no confidence.
+24.2. All committee members, entitled members or alumni member will be able to cast a vote on a vote of no confidence.
 
 24.3. All committee members must be informed of the vote by the secretary; They may be able to vote for, against or abstain from voting.
 
