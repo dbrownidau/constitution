@@ -341,9 +341,9 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 22.4.3. Take the chair at any meeting of the subcommittee and decide meeting procedure.
 
-23. Dissent
------------
-23.1. All members with voting rights have the power to call on the dissent provision.
+23. Vote of Dissent
+-------------------
+23.1. All members with voting rights have the power to call a vote of dissent.
 
 23.2. This will overide or reverse a decision made by the executive committee, if possible.
 
@@ -351,11 +351,9 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 23.4. Proposed changes will be presented when performing a vote of dissent.
 
-23.5. A majority vote is needed for dissent to successfully occur.
-
-24. Vote of no confidence
+24. Vote of No Confidence
 -------------------------
-24.1. Any committee member, entitled member or alumni member has the power to call a vote of no confidence.
+24.1. All members with voting rights have the power to call a vote of no confidence.
 
 24.2. All committee members, entitled members or alumni member will be able to cast a vote on a vote of no confidence.
 
