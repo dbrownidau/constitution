@@ -359,11 +359,9 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 24.3. All committee members must be informed of the vote by the secretary; They may be able to vote for, against or abstain from voting.
 
-24.4. For a succesful vote of no confidence to occur, there must be an amount of votes in favour of the vote equal to the majority those voting.
+24.4. A successful vote of no confidence will see that the committee member or executive committee member in question is removed from their position.
 
-24.5. A successful vote of no confidence will see that the committee member or executive committee member in question is removed from their position.
-
-24.6. A vote of no confidence may be called via proxy by the secretary of the association at the secretary's descretion
+24.5. A vote of no confidence is permitted to be called via proxy by the secretary of the association, dependant on the secretary's descretion
 
 25. Dissolution
 ---------------
