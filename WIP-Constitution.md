@@ -7,13 +7,13 @@ The official name of the association shall be:
 
 1.1. 'Computing and Security Student Association'
 
-1.2. 'CASSA' as an abreviation
+1.2. 'CASSA' as an abbreviation
 
 2. Definitions
 --------------
 2.1. “Committee” meaning the Committee of the association; 
 
-2.2. “Committee  meeting” meaning the meeting of committee members, including electronic or virtual meetings;
+2.2. “Committee meeting” meaning the meeting of committee members, including electronic or virtual meetings;
 
 2.3. “Financial year” meaning each period of 12 months commencing at the expiration of the previous financial year of the association;
 
@@ -37,7 +37,7 @@ The official name of the association shall be:
 
 2.13. "Semester" meaning the academic semester of the University.
 
-2.14. "EGM" meaning Extraoridinary General Meeting.
+2.14. "EGM" meaning Extraordinary General Meeting.
 
 3. Objectives
 -------------
@@ -65,7 +65,7 @@ The Objectives of the Association shall be to:
 
 3.11. Organise sporting, cultural and entertainment events and activities for SSci students and staff.
 
-3.12. Seek discounts and financial benefits from the university and outside organizations for its members.
+3.12. Seek discounts and financial benefits from the university and outside organisations for its members.
 
 4. Powers
 ---------
@@ -117,7 +117,7 @@ If a member is expelled under provision 7.2, they must be:
 
 7.2.1. Notified and given reason for their expulsion.
 
-7.2.2. Given oppurtunity to appeal against the decision using the dissent provision.
+7.2.2. Given opportunity to appeal against the decision using the dissent provision.
 
 7.3. Deceases
 
@@ -143,7 +143,7 @@ The officers of the association shall be:
 
 9.1.3. The presidential advisor
 
-9.2. Exectuive Committee members have the power to:
+9.2. Executive Committee members have the power to:
 
 9.2.1. Elect Committee members and assign them with a role.
 
@@ -157,7 +157,7 @@ Expulsion from the Executive Committee may occur if:
 
 9.3.1. The offendant fails to attend 3 consecutive general meetings.
 
-9.3.2. There is a succesful vote of no confidence.
+9.3.2. There is a successful vote of no confidence.
 
 10. General Meeting
 -------------------
@@ -167,7 +167,7 @@ Expulsion from the Executive Committee may occur if:
 
 10.3. General Meetings are to be held in person at either the University or a voted upon location.
 
-10.4. The Secretary shall give all members with voting rights notice via email of all general meetings at least 4 working days before the date fixed for the holding therof.
+10.4. The Secretary shall give all members with voting rights notice via email of all general meetings at least 4 working days before the date fixed for the holding thereof.
 
 10.5. General Meetings are open to all members.
 
@@ -179,7 +179,7 @@ Expulsion from the Executive Committee may occur if:
 
 11.3. General Meetings are to be held in person at either the University or a voted upon location, or via teleconferencing.
 
-11.4. The Secretary shall give all members with voting rights notice via email of all general meetings at least 4 working days before the date fixed for the holding therof.
+11.4. The Secretary shall give all members with voting rights notice via email of all general meetings at least 4 working days before the date fixed for the holding thereof.
 
 11.5. General Meetings are open to all members, unless rejected by the committee.
 
@@ -207,7 +207,7 @@ Expulsion from the Executive Committee may occur if:
 ---------------------------------
 13.1. An extraordinary general meeting can be called by the result of a vote.
 
-13.2. The quroum shall be the same as in provision 11.2.
+13.2. The quorum shall be the same as in provision 11.2.
 
 13.3. The association shall give notice of the meeting as in provision 11.3.
 
@@ -309,7 +309,7 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 ------------------------
 21.1. The Presidential Advisor can only be filled by a past President or Vice-President.
 
-21.2 The Presential Advisor is chosen by the President shortly after their election.
+21.2 The Presidential Advisor is chosen by the President shortly after their election.
 
 22. Subcommittees
 -----------------
@@ -361,7 +361,7 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 -------------------
 24.1. All members with voting rights have the power to call a vote of dissent.
 
-24.2. This will overide or reverse a decision made by the executive committee, if possible.
+24.2. This will override or reverse a decision made by the executive committee, if possible.
 
 24.3. This may only be called upon actions or policies in which a vote has not been drawn (see 14.).
 
@@ -377,7 +377,7 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 25.4. A successful vote of no confidence will see that the committee member or executive committee member in question is removed from their position.
 
-25.5. A vote of no confidence is permitted to be called via proxy by the secretary of the association, dependant on the secretary's descretion
+25.5. A vote of no confidence is permitted to be called via proxy by the secretary of the association, dependant on the secretary's discretion
 
 26. Dissolution
 ---------------
