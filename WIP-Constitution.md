@@ -105,6 +105,8 @@ For the purposes of achieving or furthering these objectives, the Association sh
 
 6.2. Membership of the Association shall cease in accordance to the Cease of Membership provision contained within this Constitution.
 
+6.3. Records of membership shall include the full name, nominated email address and student number (if applicable) of each member.
+
 7. Cease of Membership
 ----------------------
 Membership of the Association shall cease if the member:
