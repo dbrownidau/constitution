@@ -95,15 +95,15 @@ For the purposes of achieving or furthering these objectives, the Association sh
 
 6. Membership
 -------------
-Membership of the Association shall consist of three classes:
+6.1. Membership of the Association shall consist of three classes:
 
-6.1. Entitled Membership - Students or Staff of SSci who opt to become members of the Association.
+6.1.1. Entitled Membership - Students or Staff of SSci who opt to become members of the Association.
 
-6.2. Affiliate Membership - Approved by the executive committee on a yearly basis.
+6.1.2. Affiliate Membership - Approved by the executive committee on a yearly basis.
 
-6.3. Alumni Membership - Past students or Staff of SSci, SCSS or SCIS who opt to become members of the Association.
+6.1.3. Alumni Membership - Past students or Staff of SSci, SCSS or SCIS who opt to become members of the Association.
 
-6.4. Membership of the Association shall cease in accordance to the Cease of Membership provision contained within this Constitution.
+6.2. Membership of the Association shall cease in accordance to the Cease of Membership provision contained within this Constitution.
 
 7. Cease of Membership
 ----------------------
