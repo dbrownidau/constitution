@@ -323,6 +323,8 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 22.1.4. Representative Committee
 
+22.1.5. Advisory Committee
+
 22.2. Each subcommittee shall have a chairperson.
 
 22.4. The management of a subcommittee shall be the duty of the corresponding chairperson.
