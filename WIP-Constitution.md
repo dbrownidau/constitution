@@ -281,7 +281,9 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 19.3. Have custody of all books, documents, records and registers of the Association.
 
-19.4. Perform such other duties as are imposed by these provisions of the Secretary.
+19.4. Maintain membership records.
+
+19.5. Perform such other duties as are imposed by these provisions of the Secretary.
 
 20. Treasurer
 -------------
