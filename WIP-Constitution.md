@@ -1,11 +1,11 @@
-Constitution of the Computing and Security Student Association (CASSA)
+Constitution of the Computer and Security Student Association (CASSA)
 ======================================================================
 
 1. Name of the Association
 --------------------------
 The official name of the association shall be:
 
-1.1. 'Computing and Security Student Association'
+1.1. 'Computer and Security Student Association'
 
 1.2. 'CASSA' as an abbreviation
 
@@ -19,7 +19,7 @@ The official name of the association shall be:
 
 2.4. “General meeting” meaning meeting convened of the Association, including electronic or virtual meetings;
 
-2.5. “The Association” meaning the Computing And Security Student Association (CASSA).
+2.5. “The Association” meaning the Computer And Security Student Association (CASSA).
 
 2.6. “Staff” meaning technical, support, administrative or academic staff members of Edith Cowan University.
 
