@@ -373,17 +373,19 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 24.4. Proposed changes will be presented when performing a vote of dissent.
 
+24.5. The vote may only occur at a General Meeting, Committee Meeting, EGM, or AGM.
+
 25. Vote of No Confidence
 -------------------------
 25.1. All members with voting rights have the power to call a vote of no confidence.
 
-25.2. All committee members, entitled members or alumni member will be able to cast a vote on a vote of no confidence.
+25.2. All committee members must be informed of the vote by the secretary; They may be able to vote for, against or abstain from voting.
 
-25.3. All committee members must be informed of the vote by the secretary; They may be able to vote for, against or abstain from voting.
+25.3. A successful vote of no confidence will see that the committee member or executive committee member in question is removed from their position.
 
-25.4. A successful vote of no confidence will see that the committee member or executive committee member in question is removed from their position.
+25.4. A vote of no confidence is permitted to be called via proxy by the secretary of the association, dependant on the secretary's discretion
 
-25.5. A vote of no confidence is permitted to be called via proxy by the secretary of the association, dependant on the secretary's discretion
+25.5. The vote may only occur at a General Meeting, Committee Meeting, EGM, or AGM.
 
 26. Dissolution
 ---------------
