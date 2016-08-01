@@ -221,6 +221,8 @@ Expulsion from the Executive Committee may occur if:
 
 14.3. Voting is permitted to be conducted by online ballot, sent to all members with voting rights via email.
 
+14.4. Counting and resolution of an online ballot will occur at the soonest possible General Meeting, Committee Meeting, EGM or AGM.
+
 14.4. Only entitled members, alumni members and committee members of the Association shall be eligible to vote.
 
 14.5. Under no circumstances shall right of voting by proxy be permitted.
