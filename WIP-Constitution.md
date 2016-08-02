@@ -91,7 +91,7 @@ For the purposes of achieving or furthering these objectives, the Association sh
 
 5.2. The income and property of the Association shall not be given, directly or indirectly, to any members of the Association with the exception of payment for goods/services rendered.
 
-5.3. All payments are to be approved either by 3 officers, or the President and Treasurer.
+5.3. All payments are to be approved either by 3 officers, the President and Treasurer, or by vote at General Meeting, Committee Meeting, EGM, or AGM.
 
 6. Membership
 -------------
