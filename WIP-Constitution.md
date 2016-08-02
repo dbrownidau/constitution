@@ -377,6 +377,8 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 24.5. The vote may only occur at a General Meeting, Committee Meeting, EGM, or AGM.
 
+24.6. A vote of dissent must be called at a General Meeting, Committee Meeting, EGM, or AGM.
+
 25. Vote of No Confidence
 -------------------------
 25.1. All members with voting rights have the power to call a vote of no confidence.
@@ -388,6 +390,8 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 25.4. A vote of no confidence is permitted to be called via proxy by the secretary of the association, dependant on the secretary's discretion
 
 25.5. The vote may only occur at a General Meeting, Committee Meeting, EGM, or AGM.
+
+25.6. A vote of no confidence must be called at a General Meeting, Committee Meeting, EGM, or AGM.
 
 26. Dissolution
 ---------------
