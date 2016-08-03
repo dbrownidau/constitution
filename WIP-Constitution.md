@@ -165,7 +165,7 @@ Expulsion from the Executive Committee may occur if:
 -------------------
 10.1. A general meeting may only be called by the President or Secretary.
 
-10.2. The quorum for a general meeting must be equal to a majority of the amount of committee members.
+10.2. The quorum for a general meeting must be equal to the number of executive committee members.
 
 10.3. General Meetings are to be held in person at either the University or a voted upon location.
 
@@ -177,7 +177,7 @@ Expulsion from the Executive Committee may occur if:
 ---------------------
 11.1. A committee meeting may only be called by the President or Secretary.
 
-11.2. The quorum for a committee meeting must be equal to a majority of the amount of committee members.
+11.2. The quorum for a committee meeting must be equal to the number of executive committee members.
 
 11.3. General Meetings are to be held in person at either the University or a voted upon location, or via teleconferencing.
 
@@ -189,7 +189,7 @@ Expulsion from the Executive Committee may occur if:
 --------------------------
 12.1. The Annual General Meeting shall be held either at the end or the start of the academic year.
 
-12.2. The quorum shall be equal to at least two thirds of the amount of committee members.
+12.2. The quorum for an Annual General Meeting must be equal to the number of executive committee members.
 
 12.3. At least 1 months notice shall be given of the Annual General Meeting.
 
@@ -227,8 +227,7 @@ Expulsion from the Executive Committee may occur if:
 
 14.5. Under no circumstances shall right of voting by proxy be permitted.
 
-14.6. Unless otherwise stated, the quorum for a vote to be valid is equal to a majority of the amount of committee members.
-
+14.6. Unless otherwise stated, the quorum for a vote to be valid is equal to the number of executive committee members.
 15. Minutes of Meetings
 -----------------------
 15.1. The Secretary, or in their absence, another member, shall keep Minutes of all General Meetings, Extraordinary Meetings and Annual General Meetings.
