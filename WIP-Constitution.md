@@ -228,6 +228,7 @@ Expulsion from the Executive Committee may occur if:
 14.5. Under no circumstances shall right of voting by proxy be permitted.
 
 14.6. Unless otherwise stated, the quorum for a vote to be valid is equal to the number of executive committee members.
+
 15. Minutes of Meetings
 -----------------------
 15.1. The Secretary, or in their absence, another member, shall keep Minutes of all General Meetings, Extraordinary Meetings and Annual General Meetings.
