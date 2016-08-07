@@ -219,9 +219,11 @@ Expulsion from the Executive Committee may occur if:
 
 14.2. Voting shall be conducted by a show of hands of those present at a General Meeting, Committee Meeting, EGM or AGM.
 
-14.3. Voting is permitted to be conducted by online ballot, sent to all members with voting rights via email.
+14.3. Voting is permitted to be conducted by online ballot.
 
-14.4. Counting and resolution of an online ballot will occur at the soonest possible General Meeting, Committee Meeting, EGM or AGM.
+14.3.1. Online ballots are to be sent to all members with voting rights via email.
+
+14.3.2. Online ballots are to close 7 days after being sent.
 
 14.4. Only entitled members, alumni members and committee members of the Association shall be eligible to vote.
 
