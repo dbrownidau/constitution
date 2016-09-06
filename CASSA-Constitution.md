@@ -5,9 +5,9 @@ Constitution of the Computer and Security Student Association (CASSA)
 --------------------------
 The official name of the association shall be:
 
-1.1. 'Computer and Security Student Association'
+1.1. "Computer and Security Student Association"
 
-1.2. 'CASSA' as an abbreviation
+1.2. "CASSA" as an abbreviation
 
 2. Definitions
 --------------
@@ -25,7 +25,7 @@ The official name of the association shall be:
 
 2.7. “School” or “SSci” meaning the School of Science at Edith Cowan University.
 
-2.8. "SCSS' meaning the School of Computer and Security Science at Edith Cowan University.
+2.8. "SCSS" meaning the School of Computer and Security Science at Edith Cowan University.
 
 2.9. "SCIS" meaning the School of Computer and Information Science at Edith Cowan University.
 
@@ -91,7 +91,13 @@ For the purposes of achieving or furthering these objectives, the Association sh
 
 5.2. The income and property of the Association shall not be given, directly or indirectly, to any members of the Association with the exception of payment for goods/services rendered.
 
-5.3. All payments are to be approved either by 3 officers, the President and Treasurer, or by vote at General Meeting, Committee Meeting, EGM, or AGM.
+5.3. All payments are to be approved by one of the following means: 
+
+5.3.1. 3 officers; or
+
+5.3.2. The President and Treasurer; or 
+
+5.3.3. By vote at a General Meeting, Committee Meeting, EGM, or AGM.
 
 6. Membership
 -------------
@@ -105,19 +111,19 @@ For the purposes of achieving or furthering these objectives, the Association sh
 
 6.2. Membership of the Association shall cease in accordance to the Cease of Membership provision contained within this Constitution.
 
-6.3. Records of membership shall include the full name, nominated email address and student number (if applicable) of each member.
+6.3. Records of membership shall include the full name, nominated email address, student number (if applicable) and registration date of each member.
 
 7. Cease of Membership
 ----------------------
-Membership of the Association shall cease if the member:
+7.1. Membership of the Association shall cease if the member:
 
-7.1. Resigns via electronic media as approved by the Committee.
+7.1.1. Resigns via electronic media as approved by the Committee.
 
-7.2. Is expelled by the Committee due to the member's conduct being detrimental to the interests of the Association.
+7.1.2. Is expelled by the Committee due to the member's conduct being detrimental to the interests of the Association.
 
-If a member is expelled under provision 7.2, they must be:
+7.2. If a member is expelled under provision 7.1.2, they must be:
 
-7.2.1. Notified and given reason for their expulsion.
+7.2.1. Notified and given reason for their expulsion; and
 
 7.2.2. Given opportunity to appeal against the decision using the dissent provision.
 
@@ -153,11 +159,9 @@ The officers of the association shall be:
 
 9.2.3. Temporarily fill any vacancies in the executive committee.
 
-9.3. Expulsion from the Executive Committee
+9.3. Expulsion from the Executive Committee may occur if:
 
-Expulsion from the Executive Committee may occur if:
-
-9.3.1. The offendant fails to attend 3 consecutive general meetings.
+9.3.1. The offendant fails to attend 3 consecutive general meetings; or
 
 9.3.2. There is a successful vote of no confidence.
 
@@ -335,21 +339,21 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 22.2. Each subcommittee shall have a chairperson.
 
-22.4. The management of a subcommittee shall be the duty of the corresponding chairperson.
+22.3. The goals and policy of the subcommittee shall be set by the executive committee.
 
-22.5. The goals and policy of the subcommittee shall be set by the executive committee.
+22.4. All members under a subcommittee shall be considered a committee member.
 
-22.6. All members under a subcommittee shall be considered a committee member.
+22.5. The executive committee shall have the power to add and remove committee members.
 
-22.7. The executive committee shall have the power to add and remove committee members.
+22.6. A committee member shall be a member of no more than two subcommittees.
 
-22.8. A committee member shall be a member of no more than two subcommittees.
+22.7. A subcommittee may act under any title approved by the executive committee.
 
-22.9. A subcommittee may act under any title approved by the executive committee.
+22.8. Committee members may act under a title approved by both themselves and the executive committee.
 
-22.10. Committee members may act under a title approved by both themselves and the executive committee.
+22.9. The executive committee shall have the power to establish and remove subcommittees.
 
-22.11. The executive committee shall have the power to establish and remove subcommittees.
+22.10. A subcommittee must be comprised of atleast two members.
 
 23. Subcommittee Chair
 ----------------------
@@ -358,6 +362,8 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 23.2. The chairperson of a subcommittee shall be decided by the corresponding committee members by majority vote, documented by the Secretary.
 
 23.3. The chairperson of a subcommittee shall have an additional casting vote in their corresponding subcommittee where a vote on any matter is drawn.
+
+23.4. A subcomittee chair can only be chair of a single subcommittee
 
 23.4 Subcommittee Chair responsibilities:
 
@@ -397,7 +403,9 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 26. Dissolution
 ---------------
-26.1. The Association may at any time, with the consent of a majority of no less than 75% of the members voting at a General Meeting called for the purpose, be dissolved.
+26.1. The Association may be disolved at a General Meeting for which the puporse of such is dissolution.
+
+26.2. The dissolution can only occur with a succesful vote that achieves no less of 75% of those voting.  
 
 26.2. If upon dissolution or winding up of the Association there remains after the satisfaction of all its debts and liabilities, any balance of funds whatsoever, the same shall not be distributed among the members or the Association but shall be transferred to the School of Science to be used to benefit students.
 
@@ -405,13 +413,13 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 -------------------------
 27.1. A freely accessible copy of the Constitution will be permanently published.
 
-27.2. A member or staff may at any reasonable time inspect without charge the books, documents, records and securities of the Association.
+27.2. The Association will provide any Assosciation books, documents, records and securities on request by a member or staff within 20 working days, at no charge.
 
 28. Alterations of Constitution
 -------------------------------
-28.1. No alterations, addition or amendment of this Constitution or any Regulations made hereunder shall be made unless and until carried by a resolution at any General Meeting called specifically for the purpose by the majority of at least two thirds of the members voting.
+28.1. No alterations, additions or amendments of this Constitution or any Regulations made hereunder shall be made unless and until carried by a resolution at any General Meeting called specifically for the purpose by the majority of at least two thirds of the members voting.
 
-28.2. Notice of any proposed alteration, addition or amendment must be included in the notice of an AGM or EGM which must allow for 15 days’ notice to members.
+28.2. A notice containing the alteration, addition or amendment must be sent to members 15 days prior to the General Meeting called for the purpose.
 
 28.3. The rules of an incorporated association bind the association and the members of the association as if they contained an agreement on the part of each member to be bound by and observe all the provisions of the rules; and that agreement were duly executed by each member.
 
