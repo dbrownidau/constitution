@@ -161,7 +161,7 @@ The officers of the association shall be:
 
 9.3. Expulsion from the Executive Committee may occur if:
 
-9.3.1. The offendant fails to attend 3 consecutive general meetings; or
+9.3.1. The offendant fails to attend 3 consecutive general meetings without apology; or
 
 9.3.2. There is a successful vote of no confidence.
 
@@ -169,7 +169,7 @@ The officers of the association shall be:
 -------------------
 10.1. A general meeting may only be called by the President or Secretary.
 
-10.2. The quorum for a general meeting must be equal to the number of executive committee members.
+10.2. The quorum for a general meeting must be equal to half the number of executive committee members, rounded up.
 
 10.3. General Meetings are to be held in person at either the University or a voted upon location.
 
@@ -181,7 +181,7 @@ The officers of the association shall be:
 ---------------------
 11.1. A committee meeting may only be called by the President or Secretary.
 
-11.2. The quorum for a committee meeting must be equal to the number of executive committee members.
+11.2. The quorum for a committee meeting must be equal to half the number of executive committee members, rounded up.
 
 11.3. General Meetings are to be held in person at either the University or a voted upon location, or via teleconferencing.
 
@@ -233,7 +233,7 @@ The officers of the association shall be:
 
 14.5. Under no circumstances shall right of voting by proxy be permitted.
 
-14.6. Unless otherwise stated, the quorum for a vote to be valid is equal to the number of executive committee members.
+14.6. Unless otherwise stated, the quorum for a vote to be valid is equal to half the number of executive committee members, rounded up.
 
 15. Minutes of Meetings
 -----------------------
@@ -365,13 +365,13 @@ In addition to any provisions set out elsewhere in this constitution or in any r
 
 23.4. A subcomittee chair can only be chair of a single subcommittee
 
-23.4 Subcommittee Chair responsibilities:
+23.5 Subcommittee Chair responsibilities:
 
-23.4.1. Coordinate and supervise the work of the corresponding committee members.
+23.5.1. Coordinate and supervise the work of the corresponding committee members.
 
-23.4.2. Generally carry out the policy of the corresponding subcommittee.
+23.5.2. Generally carry out the policy of the corresponding subcommittee.
 
-23.4.3. Take the chair at any meeting of the subcommittee and decide meeting procedure.
+23.5.3. Take the chair at any meeting of the subcommittee and decide meeting procedure.
 
 24. Vote of Dissent
 -------------------
